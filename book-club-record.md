@@ -65,6 +65,9 @@ rating: 6
 - It was a long tie ago we read this, and I think it even preceded Corbyn.
 
 #### Simon Baron Cohen *The Essential Difference: Men, Women and the Extreme Male Brain*
+rating: 7
+- Men's brains are statistically more likley to be autistic, and on a wide spectrum men's brains tend to be further along it. Something like that.
+- Yeah can't remember all the details of his thesis, but interesting stuff about the nature of certain types of autism, and possible differences between yer average man and woman's neural biology.
 
 #### Nik Cohn *Yes We Have No: Adventures in Other England*
 
