@@ -11,19 +11,19 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 It was interesting which books I remembered and which I didn't. Some from even the earliest years are still quite vivid. Others, even some from not long ago, are blanks. I've tried to be honest about what I can remember and what I can't. 
 
 #### Claire Ainsley *The New Working Class: How to Win Hearts, Minds and Votes*
-`<NO MEETING DATE> `Rating: 5
+`2018 `Rating: 5
 - Well intentioned, well researched policy recommendations
 - Earnest and a bit dull
 
 #### Fay Bound Alberti *The Biography of Loneliness: The History of an Emotion*
-`<NO MEETING DATE> `Rating: 5
+`2020 `Rating: 5
 - Good topic but tenatively argued. I found it hard to pin down what she was saying.
 
 #### Louis Althusser *The Future Lasts a Long Time*
 `<NO MEETING DATE> `
 
 #### Various Authors *Papers and artices on trans issues*
-`<NO MEETING DATE> `
+`2017 `Rating: 8
 - Included Kathleen Stock (concerned by some aspects of trans activism)
 - Provacative and interesting.
 - We should do more sets of papers and articles, but it's a bit onerous having to put them together.
@@ -46,7 +46,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 `<NO MEETING DATE> `
 
 #### Sarah-Jayne Blakemore *Inventing ourselves: The Secret Life of the Teenage Brain. *
-`<NO MEETING DATE> `Rating: 5
+`2019 `Rating: 5
 - Recent research on teenage development.
 - Unfortunately geriatic decay means I can't remember much.
 
@@ -62,7 +62,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Can't remember much about this except he seemed to be arguing unconvingly that they aren't much good for anything.
 
 #### Christiana Figueres and Tom Rivet Carnac *The Future We Choose: A Stubborn Optimist’s Guide to the Climate Crisis*
-`<NO MEETING DATE> `Rating: 6
+`2020 `Rating: 6
 - Intended to be positive and inspiring about what you can do about climate change.
 - Instead illuminating but a bit depressing.
 
@@ -116,7 +116,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Mixed reception in the group, some thought it lacked sufficient economic sophistication.
 
 #### Reni Eddo-Lodge *Why I'm Longer Talking to White People About Race*
-`<NO MEETING DATE> `Rating: 6
+`2018 `Rating: 6
 - Descriptions of the problems of being black in the UK
 - Well written and angry.
 - Felt I wasn't the audience she was addressing, and if she doesn't want to talk to me,  why should I care?
@@ -134,7 +134,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Quite interesting ideas about the the importance of networks in human relations.
 
 #### Victor E Frankl *Man's Search for Meaning*
-`<NO MEETING DATE> `Rating: 5
+`2019 `Rating: 5
 - Harrowing and insightful account of experience camps.
 - But a patchy as an explanation or intellectual foundation of existential psychotherapy.
 
@@ -158,7 +158,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - A necessary book cataloging the misdeeds of big pharma.
 
 #### David Graeber *Bullshit Jobs: The Rise of Pointless Work, and What We Can Do About It*
-`<NO MEETING DATE> `Rating: 8 ⚠
+`2018 `Rating: 8 ⚠
 - Fun read bursting with subsersive ideas
 - Made sense of much of my frustration with corporate life.
 - Some in the group thought it had big intellectual gaps, e.g. is it really waste when it is essential to try several ideas, many of which you know won't work?
@@ -183,7 +183,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 `<NO MEETING DATE> `
 
 #### Tom Holland *Domininion*
-`<NO MEETING DATE> `Rating: 8 ⚠
+`2019 `Rating: 8 ⚠
 - One of the most controversial books in terms of interest and enjoyment.
 - I liked it a lot. Punchy, well written, a strong though very debatable central thesis, well organised and an incredible range of reference.
 - Others found it wrong-headed, annoying, bordering on offensive.
@@ -256,12 +256,12 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - I enjoyed it at the time, and it seemed important. But apart from that I can remember nothing about it at all, sadly. And things seems to have become significantly worse since it was written.
 
 #### Jan Werner Muller *What is Populism*
-`<NO MEETING DATE> `Rating: 8 ⚠
+`2019 `Rating: 8 ⚠
 - I thought it was clear and well argued, nicely explaining a complex thesis and a lot of ancillary ideas about democracy.
 - Others didn't like it so much, I think they felt it missed the point somehow.
 
 #### Douglas Murray *The Madness of Crowds: Gender, Race and Identity*
-`<NO MEETING DATE> `Rating: 2
+`2020 `Rating: 2
 - Expecting controversial, got annoying and half-baked.
 
 #### Onara O'Neill *A Quesiton of Trust: The Reith Lectures 2002*
@@ -300,7 +300,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Not much trace of this in my mind, other than a vaguely positive blur.
 
 #### Angela Saini *Superior: The return of race science*
-`<NO MEETING DATE> `Rating: 6
+`2019 `Rating: 6
 - Good read, well written
 - Unfortunately the only bit I can remember is the argument from a prominent geneticist that perhaps there is something in race after all: many ways of thinking about it have been thoroughly debunked, but not all.
 - Also I think she missed the argument that IQ tests really don't measure anything of objective scienctific value.
@@ -357,7 +357,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Ok I do eat less meat because of this, but I'm not doing nearly enough.
 
 #### Peter Godfrey Smith *Other Minds: The Octopus, The Sea, and the Deep Origins of Consciousness*
-`<NO MEETING DATE> `Rating: 8
+`2019 `Rating: 8
 - Beautifully written, engaging and intelligent book.
 - Well liked in book club.
 - Doesn't go as deeply into the philosophical issues as the title suggests it might, but a good read.
@@ -374,7 +374,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Rather a dry read.
 
 #### The Secret Barrister *The Secret Barrister: Stories of the Law and How It's Broken*
-`<NO MEETING DATE> `Rating: 7
+`2018 `Rating: 8
 - Eye-opening descriptions of the shitshow that is the criminal law in the UK.
 
 #### Sherry Turkle *Alone Together: Why We Expect More from Technology and Less from Each Other*
@@ -405,7 +405,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 `<NO MEETING DATE> `
 
 #### Irwin Yalom *Love's Executioner and other tales of Psychotherapy*
-`<NO MEETING DATE> `Rating: 8
+`2019 `Rating: 8
 - Beautifully written and engaging
 - Everyone in book club liked it.
 
