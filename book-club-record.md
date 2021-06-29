@@ -19,8 +19,10 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### Louis Althusser *The Future Lasts a Long Time*
 `<NO MEETING DATE> `
+
 #### Various Authors *Papers and artices on trans issues*
-`<NO MEETING DATE> `- Included Kathleen Stock (concerned by some aspects of trans activism)
+`<NO MEETING DATE> `
+- Included Kathleen Stock (concerned by some aspects of trans activism)
 - Provacative and interesting.
 - We should do more sets of papers and articles, but it's a bit onerous having to put them together.
 
@@ -40,6 +42,7 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### Ulrich Beck *Risk Society: Towards a New Modernity*
 `<NO MEETING DATE> `
+
 #### Sarah-Jayne Blakemore *Inventing ourselves: The Secret Life of the Teenage Brain. *
 `<NO MEETING DATE> `rating: 5
 - Recent research on teenage development.
@@ -51,6 +54,7 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### Paul Boghassian *Fear of Knowledge: Against Relativism and Constructivism*
 `<NO MEETING DATE> `
+
 #### Jonn Carey *What Good are the Arts?*
 `<NO MEETING DATE> `rating: 4 :warning:
 - Can't remember much about this except he seemed to be arguing unconvingly that they aren't much good for anything.
@@ -61,7 +65,8 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 - Instead illuminating but a bit depressing.
 
 #### Noam Chomsky *A New Generation Draws the Line: Kosovo, East Timor and the Standards of the West*
-`<NO MEETING DATE> `- I'm embarassed to admit it in certain circles, but Chomsky's political writing rarely engage me.
+`<NO MEETING DATE> `
+- I'm embarassed to admit it in certain circles, but Chomsky's political writing rarely engage me.
 
 #### Nick Cohen *What's Left?: How the Left Lost its Way*
 `<NO MEETING DATE> `rating: 6
@@ -74,6 +79,7 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### Nik Cohn *Yes We Have No: Adventures in Other England*
 `<NO MEETING DATE> `
+
 #### Michael Collins *The Likes of Us: An Official Biography of the White Working Class*
 `<NO MEETING DATE> `rating: 8
 - Reading this was the first time I'd come across the argument that the white working class is being systemically discriminated against.
@@ -90,6 +96,7 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### Richard Dawkins *The God Delusion*
 `<NO MEETING DATE> `
+
 #### Daniel Dennett *Freedom Evolves*
 `<NO MEETING DATE> `rating: 7 :warning:
 - Like much of the philosophy, half the book group couldn't see the point.
@@ -97,8 +104,10 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### Meghnad Desai *Marx's Revenge: The Resurgence of Capitalism and the Death of Statist Socialism*
 `<NO MEETING DATE> `
+
 #### Jared Diamond *Guns Germs and Steel: Guns, Germs and Steel: A short history of everybody for the last 13,000 years*
 `<NO MEETING DATE> `
+
 #### Danny Dorling *All That is Solid: How the Great Housing Disaster Defines Our Times, and What We Can Do About It*
 `<NO MEETING DATE> `rating: 6
 - Important topic.
@@ -112,6 +121,7 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### Michael Edwards *Civil Society*
 `<NO MEETING DATE> `
+
 #### Cordelia Fine *Delusions of Gender: The Real Science Behind Sex Differences*
 `<NO MEETING DATE> `rating: 8 :warning:
 - I had to miss this book club meeting and didn't finish the book.
@@ -140,6 +150,7 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### Malcom Gladwell *Outliers: The Story of Success*
 `<NO MEETING DATE> `
+
 #### Ben Goldacre *Bad Pharma: How Medicine is Broken, And How We Can Fix It*
 `<NO MEETING DATE> `rating: 6
 - A necessary book cataloging the misdeeds of big pharma.
@@ -157,6 +168,7 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### John Gray *Straw Dogs*
 `<NO MEETING DATE> `
+
 #### Ian Hacking *The Social Construction of What?*
 `<NO MEETING DATE> `rating: 5
 - Promised a lot but didn't feel like it delivered the analysis that is needed.
@@ -167,6 +179,7 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### Sam Harris *The End of Faith: Religion, Terror, and the Future of Reason*
 `<NO MEETING DATE> `
+
 #### Tom Holland *Domininion*
 `<NO MEETING DATE> `rating: 8 :warning:
 - One of the most controversial books in terms of interest and enjoyment.
@@ -175,6 +188,7 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### Michel Houellebecq *Atomised*
 `<NO MEETING DATE> `
+
 #### Yuval Noah Hrari *Homo Deus: A Brief History of Tomorrow*
 `<NO MEETING DATE> `rating: 5
 - Not quite as big and important as it thinks.
@@ -186,6 +200,7 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### Tobias Jones *Utopian Dreams*
 `<NO MEETING DATE> `
+
 #### Ben Judah *This is London:  Life and Death in the World City*
 `<NO MEETING DATE> `rating: 7
 - Down and out with romanians in London,
@@ -207,6 +222,7 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### Richard Layard *Happiness: Lessons from a New Science*
 `<NO MEETING DATE> `
+
 #### Bernard Lewis *The Crisis of Islam: Holy War and Unholy Terror*
 `<NO MEETING DATE> `rating: 6 :warning:
 - Only the vaguest memory of this - I think it seemed a convincing historial account.
@@ -218,6 +234,7 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### Steven Lukes *Liberals & Cannibals: The Implications of Diversity*
 `<NO MEETING DATE> `
+
 #### Paul Mason *Post Capitalism: A Guide to Our Future*
 `<NO MEETING DATE> `rating: 7
 - Urgent and passionate.
@@ -247,6 +264,7 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### Onara O'Neill *A Quesiton of Trust: The Reith Lectures 2002*
 `<NO MEETING DATE> `
+
 #### Toby Ord *The Precipice: Existential Risk and the Future of Humanity*
 `<NO MEETING DATE> `rating: 6
 - Deep well written sustained analysis, but my interest was limited because of restriction to only existential threats which seems to omit the ones that should be most pressing.
@@ -322,8 +340,10 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### Richard Sennett *The Corrosion of Character: The Personal Consequences of Work in the New Capitalism*
 `<NO MEETING DATE> `
+
 #### Lionel Shriver *We Need to Talk about Kevin*
 `<NO MEETING DATE> `
+
 #### Peter Singer *The Life you can Save: How To Do Your Part To End World Poverty*
 `<NO MEETING DATE> `rating: 8
 - Powerfully written
@@ -381,6 +401,7 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### Martin Wolf *Why Globalisation Works*
 `<NO MEETING DATE> `
+
 #### Irwin Yalom *Love's Executioner and other tales of Psychotherapy*
 `<NO MEETING DATE> `rating: 8
 - Beautifully written and engaging
@@ -392,3 +413,4 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 #### Slavoj Zizek *Violence: Six sideways reflections*
 `<NO MEETING DATE> `
+
