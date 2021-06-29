@@ -2,7 +2,7 @@
 
 ## Intro
 
-The (Generally) Non-Fiction Book Club has been running since time immemorial, and its origins are are disputed even by those who have attended from the start. 
+The (Generally) Non-Fiction Book Club has been running since time immemorial, and its origins debated. 
 
 The ratings and comments are mine - I've tried to give a warning if the rating is controversial, but such is the nature of book club, I expect that which ratings are controversial and which are not will itself be disputed. 
 
@@ -35,12 +35,15 @@ rating: 8
 - Introductory chapter seemed hasitly written, but the rest of the book a good though depressing read.
 
 #### Jean Baudrillard *The Spirit of Teorrism*
+rating: 5
+- Can't pretend much as stayed with me apart from a fairly positive buzz.
 
 #### Ulrich Beck *Risk Society: Towards a New Modernity*
 
 #### Sarah-Jayne Blakemore *Inventing ourselves: The Secret Life of the Teenage Brain. *
 rating: 5
-- I didn't really get this book - I'm afraid not much has stayed with me...
+- Recent research on teenage development.
+- Unfortunately geriatic decay means I can't remember much.
 
 #### Mark Blyth *Austerity: The History of Dangerous Idea*
 rating: 6
@@ -279,7 +282,7 @@ rating: 6 :warning:
 #### Angela Saini *Superior: The return of race science*
 rating: 6
 - Good read, well written
-- Unfortunately the only bit I can remember is the argument from a prominent geneticist that perhaps there is something in race after all: some ways of thinking about it have been thoroughly debunked, but not all.
+- Unfortunately the only bit I can remember is the argument from a prominent geneticist that perhaps there is something in race after all: many ways of thinking about it have been thoroughly debunked, but not all.
 - Also I think she missed the argument that IQ tests really don't measure anything of objective scienctific value.
 
 #### Michael Sandel *The Tyranny of Merit: Why the Promise of Moving Up Is Pulling America Apart*
