@@ -10,6 +10,14 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 It was interesting which books I remembered and which I didn't. Some from even the earliest years are still quite vivid. Others, even some from not long ago, are blanks. I've tried to be honest about what I can remember and what I can't. 
 
+#### <NO AUTHOR> *Food Wars: Food Wars: The Global Battle for Mouths, Minds and Markets*
+`<NO MEETING DATE> `
+- Can only remember it wasn't as good as I'd hoped.
+
+#### <NO AUTHOR> *How Markets Fial: The Logic of Economic Calamities*
+`<NO MEETING DATE> `
+- Looks good, wish I could remember something about it.
+
 #### Claire Ainsley *The New Working Class: How to Win Hearts, Minds and Votes*
 `2018 `Rating: 5
 - Well intentioned, well researched policy recommendations
@@ -19,8 +27,16 @@ It was interesting which books I remembered and which I didn't. Some from even t
 `2020 `Rating: 5
 - Good topic but tenatively argued. I found it hard to pin down what she was saying.
 
+#### Tariq Ali *The Idea of Communism*
+`<NO MEETING DATE> `
+- It was a long time ago
+
 #### Louis Althusser *The Future Lasts a Long Time*
 `<NO MEETING DATE> `
+
+#### Diana Athill *Somewhere Towards The End*
+`2010 `Rating: 9
+- I can't remember much actual detail, but this was a beautiful book, I should read it again.
 
 #### Various Authors *Papers and artices on trans issues*
 `2017 `Rating: 8
@@ -51,7 +67,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Unfortunately geriatic decay means I can't remember much.
 
 #### Mark Blyth *Austerity: The History of Dangerous Idea*
-`<NO MEETING DATE> `Rating: 6
+`2013 `Rating: 6
 - Convincing arguments that austerity is economically damaging.
 
 #### Paul Boghassian *Fear of Knowledge: Against Relativism and Constructivism*
@@ -68,7 +84,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 
 #### Noam Chomsky *A New Generation Draws the Line: Kosovo, East Timor and the Standards of the West*
 `<NO MEETING DATE> `
-- I'm embarassed to admit it in certain circles, but Chomsky's political writing rarely engage me.
+- I'd like to like Chomsky, but this one didn't leave much lasting impression
 
 #### Nick Cohen *What's Left?: How the Left Lost its Way*
 `<NO MEETING DATE> `Rating: 6
@@ -125,13 +141,13 @@ It was interesting which books I remembered and which I didn't. Some from even t
 `<NO MEETING DATE> `
 
 #### Cordelia Fine *Delusions of Gender: The Real Science Behind Sex Differences*
-`<NO MEETING DATE> `Rating: 8 ⚠
+`2016 `Rating: 8 ⚠
 - I had to miss this book club meeting and didn't finish the book.
 - But it was extremely popular, so that why I've given it high rating with a warning.
 
 #### Nicholas Christakis and James Fowler *Connected: The Amazing Power of Social Networks and How They Shape Our Lives*
-`<NO MEETING DATE> `Rating: 6
-- Quite interesting ideas about the the importance of networks in human relations.
+`<NO MEETING DATE> `
+- Looks like quite interesting ideas about the the importance of networks in human relations, but not quite interesting enough for anything to stay with me.
 
 #### Victor E Frankl *Man's Search for Meaning*
 `2019 `Rating: 5
@@ -176,7 +192,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Promised a lot but didn't feel like it delivered the analysis that is needed.
 
 #### Jonathan Haidt *The Righteous Mind: Why Good People are Divided by Politics and Religion*
-`<NO MEETING DATE> `Rating: 9
+`2017 `Rating: 9
 - Important and convincing account of different moral frameworks that people bring to their lives. And why we should respect those differences.
 
 #### Sam Harris *The End of Faith: Religion, Terror, and the Future of Reason*
@@ -192,7 +208,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 `<NO MEETING DATE> `
 
 #### Yuval Noah Hrari *Homo Deus: A Brief History of Tomorrow*
-`<NO MEETING DATE> `Rating: 5
+`2017 `Rating: 5
 - Not quite as big and important as it thinks.
 - The most interesting ideas are, I think, from his previous book 'Sapiens'. Which one day I'll read.
 
@@ -205,12 +221,13 @@ It was interesting which books I remembered and which I didn't. Some from even t
 
 #### Ben Judah *This is London:  Life and Death in the World City*
 `<NO MEETING DATE> `Rating: 7
-- Down and out with romanians in London,
+- Down and out with Romanians in London,
 - and insights into some of the darker sides of European immigration into London.
 - Came out before the Brexit vote, and reveals some of changes in London that might have encouraged it.
 
 #### Daniel Kahneman *Thinking Fast and Slow*
-`<NO MEETING DATE> `Rating: 7
+`2012 `Rating: 8
+- Big book on the differences between quick inutitive thought and slow cogitation.
 
 #### Stephenie Kelton *The Deficit Myth: Modern Monetary Theory and How to Build a Better Economy*
 `2021 `Rating: 9
@@ -228,6 +245,10 @@ It was interesting which books I remembered and which I didn't. Some from even t
 #### Bernard Lewis *The Crisis of Islam: Holy War and Unholy Terror*
 `<NO MEETING DATE> `Rating: 6 ⚠
 - Only the vaguest memory of this - I think it seemed a convincing historial account.
+
+#### Michael Lewis *Boomerang: The Metdown Tour*
+`2011 `Rating: 7
+- Bit of a romp, but very vivid writing and I still remember much of the very funny, and probably very unfair stuff about Iceland.
 
 #### John Lloyd *What the Media are doing to our Politics*
 `<NO MEETING DATE> `Rating: 8
@@ -252,7 +273,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - How come I can't remember anything about this apart from the fact it was well written and I enjoyed it a time?
 
 #### George Mombiot *Out of the Wreckage: A new politics for an Age of Crisis*
-`<NO MEETING DATE> `Rating: 6
+`2017 `Rating: 6
 - I enjoyed it at the time, and it seemed important. But apart from that I can remember nothing about it at all, sadly. And things seems to have become significantly worse since it was written.
 
 #### Jan Werner Muller *What is Populism*
@@ -272,8 +293,8 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Deep well written sustained analysis, but my interest was limited because of restriction to only existential threats which seems to omit the ones that should be most pressing.
 
 #### George Orwell *The Road to Wigan Pier*
-`<NO MEETING DATE> `Rating: 8
-- Great writing, full of anger, and vivid images.
+`2013 `Rating: 8
+- Great writing, vivid and angry.
 
 #### Thomas Piketty *Capital in the Twenty-First Century*
 `<NO MEETING DATE> `Rating: 7 ⚠
@@ -321,7 +342,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Not always easy to follow, you need a pretty good idea of the history of the period.
 
 #### Mike Savage *Social Class in the 21st Century*
-`<NO MEETING DATE> `Rating: 2 ⚠
+`2016 `Rating: 2 ⚠
 - Based on the BBC's Great British Class Survey
 - A summary of their satistical clustering analysis.
 - Unpolished, uninsightful and for me very boring.
@@ -363,12 +384,12 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Doesn't go as deeply into the philosophical issues as the title suggests it might, but a good read.
 
 #### Timothy Snyder *On Tyranny: Twenty Lessons from the Twentieth Century*
-`<NO MEETING DATE> `Rating: 6
+`2017 `Rating: 6
 - Terse didactic warnings on how facism comes about.
 - Seemed an  urgent book at the time, and I enjoyed reading it, but has left little trace.
 
 #### Guy Standing *Basic Income: And How we can make it happen.*
-`<NO MEETING DATE> `Rating: 6
+`2017 `Rating: 6
 - Some well-researched, realistic policy ideas for basic income.
 - Missed the MMT option, everything dependend on tax, maybe that's politically necessary but meant a big intellectual gap.
 - Rather a dry read.
@@ -382,13 +403,13 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Memorable well-made arguments for why technology might be damaging our relationships.
 
 #### JD Vance *Hillbilly Elegy: A Memoir of a Family and Culture in Crisis*
-`<NO MEETING DATE> `Rating: 8 ⚠
+`2108 `Rating: 8 ⚠
 - Life and culture in poor white America by someone who worked his way out.
 - I liked it very mcuh - vividly written, authentic; seemed to me an insight into a way of life I knew little about.
 - Very divisive book - others in book club thought it sexist and dishonest.
 
 #### Yanis Varoufakis *Adults in the Room: My Battle with Europe's Deep Establishment*
-`<NO MEETING DATE> `Rating: 8
+`2017 `Rating: 8
 - Dramatic, detailed, and engaging account of the Greek crisis, from someone right at the centre of it.
 - Popular in the group
 
