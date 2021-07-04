@@ -4,7 +4,7 @@
 
 The (Generally) Non-Fiction Book Club has been running since time immemorial, its origins a matter of debate. 
 
-I've tried to list of the books we've read. The ratings and comments are mine - I've tried to give a warning if the rating: is controversial, but such is the nature of book club, I expect that which ratings are controversial and which are not will itself be disputed. 
+I've tried to list of the books we've read. The ratings and comments are mine - I've given a warning if a rating is controversial, but such is the nature of book club, I expect that which ratings are controversial and which are not will itself be disputed. 
 
 Not all books have ratings and comments - I'm working on that. Also I've probably missed some books. Help on both things gratefully received.
 
