@@ -2,9 +2,9 @@
 
 ## Intro
 
-The (Generally) Non-Fiction Book Club has been running since time immemorial, and it's precise origins are a matter of debate. 
+The (Generally) Non-Fiction Book Club has been running since time immemorial, its origins a matter of debate. 
 
-I've tried to list of the books we've read. The ratings and comments are mine - I've tried to give a warning if the rating is controversial, but such is the nature of book club, I expect that which ratings are controversial and which are not will itself be disputed. 
+I've tried to list of the books we've read. The ratings and comments are mine - I've tried to give a warning if the rating: is controversial, but such is the nature of book club, I expect that which ratings are controversial and which are not will itself be disputed. 
 
 Not all books have ratings and comments - I'm working on that. Also I've probably missed some books. Help on both things gratefully received.
 
@@ -143,7 +143,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 #### Cordelia Fine *Delusions of Gender: The Real Science Behind Sex Differences*
 `2016 `Rating: 8 ⚠
 - I had to miss this book club meeting and didn't finish the book.
-- But it was extremely popular, so that why I've given it high rating with a warning.
+- But it was extremely popular, so that why I've given it high rating: with a warning.
 
 #### Nicholas Christakis and James Fowler *Connected: The Amazing Power of Social Networks and How They Shape Our Lives*
 `<NO MEETING DATE> `
@@ -170,7 +170,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 `<NO MEETING DATE> `
 
 #### Ben Goldacre *Bad Pharma: How Medicine is Broken, And How We Can Fix It*
-`<NO MEETING DATE> `Rating: 6
+`2012 `Rating: 6
 - A necessary book cataloging the misdeeds of big pharma.
 
 #### David Graeber *Bullshit Jobs: The Rise of Pointless Work, and What We Can Do About It*
@@ -242,6 +242,9 @@ It was interesting which books I remembered and which I didn't. Some from even t
 #### Richard Layard *Happiness: Lessons from a New Science*
 `<NO MEETING DATE> `
 
+#### Primo Levi *If This is a Man*
+`<NO MEETING DATE> `
+
 #### Bernard Lewis *The Crisis of Islam: Holy War and Unholy Terror*
 `<NO MEETING DATE> `Rating: 6 ⚠
 - Only the vaguest memory of this - I think it seemed a convincing historial account.
@@ -310,6 +313,9 @@ It was interesting which books I remembered and which I didn't. Some from even t
 `<NO MEETING DATE> `Rating: 9
 - Big, convincingly argued,empirically grounded sociological analysis of the the collapse of social capital in the US.
 
+#### Richard Rorty *Contingency, Irony, and Solidarity*
+`<NO MEETING DATE> `
+
 #### Carlo Rovelli *Helgoland*
 `2021 `Rating: 7 ⚠
 - History of quantum mechanics, a new interpreation, and the mind/brain problem solved: all in 200 pages.
@@ -332,7 +338,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Caused debate, a lot around how to interpret the main arguments, so although his style seems very clear, evidently the substance isn't as clear as you might think.
 
 #### Michael Sandel *What Money Can't Buy: The Moral Limits of Markets*
-`<NO MEETING DATE> `Rating: 8
+`2012 `Rating: 8
 - Thought provoking arguments that not all values can be given positions on a monetary scale.
 
 #### Philippe Sands *East West Street: on the origins of genocide and crimes against humanity*
@@ -377,6 +383,9 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Powerful case for treating animals better.
 - Ok I do eat less meat because of this, but I'm not doing nearly enough.
 
+#### Robert Skidelsky *How Much is Enough?: The Love of Money, and the Case for the Good Life*
+`<NO MEETING DATE> `
+
 #### Peter Godfrey Smith *Other Minds: The Octopus, The Sea, and the Deep Origins of Consciousness*
 `2019 `Rating: 8
 - Beautifully written, engaging and intelligent book.
@@ -399,7 +408,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Eye-opening descriptions of the shitshow that is the criminal law in the UK.
 
 #### Sherry Turkle *Alone Together: Why We Expect More from Technology and Less from Each Other*
-`<NO MEETING DATE> `Rating: 8
+`2013 `Rating: 8
 - Memorable well-made arguments for why technology might be damaging our relationships.
 
 #### JD Vance *Hillbilly Elegy: A Memoir of a Family and Culture in Crisis*
