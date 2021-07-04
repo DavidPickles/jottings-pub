@@ -195,6 +195,9 @@ It was interesting which books I remembered and which I didn't. Some from even t
 `2017 `Rating: 9
 - Important and convincing account of different moral frameworks that people bring to their lives. And why we should respect those differences.
 
+#### Rupa Haq *On the Edge: The Contested Cultures of English Suburbia: The Contested Cultures of English Suburbia After 7/7*
+`<NO MEETING DATE> `
+
 #### Sam Harris *The End of Faith: Religion, Terror, and the Future of Reason*
 `<NO MEETING DATE> `
 
