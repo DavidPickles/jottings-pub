@@ -62,7 +62,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 `2013 `Rating: 6
 - Convincing arguments that austerity is economically damaging.
 
-#### Paul Boghassian *Fear of Knowledge: Against Relativism and Constructivism*
+#### Paul Boghossian *Fear of Knowledge: Against Relativism and Constructivism*
 `<NO MEETING DATE> `
 
 #### Jonn Carey *What Good are the Arts?*
@@ -74,7 +74,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Intended to be positive and inspiring about what you can do about climate change.
 - Instead illuminating but a bit depressing.
 
-#### John Cassidy *How Markets Fial: The Logic of Economic Calamities*
+#### John Cassidy *How Markets Fail: The Logic of Economic Calamities*
 `<NO MEETING DATE> `
 - Looks good, wish I could remember something about it.
 
