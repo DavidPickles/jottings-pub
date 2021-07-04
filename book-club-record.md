@@ -10,14 +10,6 @@ Not all books have ratings and comments - I'm working on that. Also I've probabl
 
 It was interesting which books I remembered and which I didn't. Some from even the earliest years are still quite vivid. Others, even some from not long ago, are blanks. I've tried to be honest about what I can remember and what I can't. 
 
-#### <NO AUTHOR> *Food Wars: Food Wars: The Global Battle for Mouths, Minds and Markets*
-`<NO MEETING DATE> `
-- Can only remember it wasn't as good as I'd hoped.
-
-#### <NO AUTHOR> *How Markets Fial: The Logic of Economic Calamities*
-`<NO MEETING DATE> `
-- Looks good, wish I could remember something about it.
-
 #### Claire Ainsley *The New Working Class: How to Win Hearts, Minds and Votes*
 `2018 `Rating: 5
 - Well intentioned, well researched policy recommendations
@@ -81,6 +73,10 @@ It was interesting which books I remembered and which I didn't. Some from even t
 `2020 `Rating: 6
 - Intended to be positive and inspiring about what you can do about climate change.
 - Instead illuminating but a bit depressing.
+
+#### John Cassidy *How Markets Fial: The Logic of Economic Calamities*
+`<NO MEETING DATE> `
+- Looks good, wish I could remember something about it.
 
 #### Noam Chomsky *A New Generation Draws the Line: Kosovo, East Timor and the Standards of the West*
 `<NO MEETING DATE> `
@@ -200,6 +196,10 @@ It was interesting which books I remembered and which I didn't. Some from even t
 
 #### Sam Harris *The End of Faith: Religion, Terror, and the Future of Reason*
 `<NO MEETING DATE> `
+
+#### Tim Lang and Michael Heasman *Food Wars: Food Wars: The Global Battle for Mouths, Minds and Markets*
+`<NO MEETING DATE> `
+- Can only remember it wasn't as good as I'd hoped.
 
 #### Tom Holland *Domininion*
 `2019 `Rating: 8 ⚠
