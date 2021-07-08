@@ -8,7 +8,7 @@ I've tried to list of the books we've read. The ratings and comments are mine - 
 
 Not all books have ratings and comments - I'm working on that. Also I've probably missed some books. Help on both things gratefully received.
 
-It was interesting which books I remembered and which I didn't. Some from even the earliest years are still quite vivid. Others, even some from not long ago, are blanks. I've tried to be honest about what I can remember and what I can't. 
+It was interesting which books I remembered and which I didn't. Some from even the earliest years are still quite vivid. Others, even some from not long ago, are blanks. I've tried to be straight about what I can remember and what I can't, but memory, mine anyway, sometimes plays strange games. 
 
 #### Claire Ainsley *The New Working Class: How to Win Hearts, Minds and Votes*
 `2018 `Rating: 5
