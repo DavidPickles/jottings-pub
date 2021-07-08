@@ -66,7 +66,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 `<NO MEETING DATE> `
 
 #### Jonn Carey *What Good are the Arts?*
-`<NO MEETING DATE> `Rating: 4 ⚠
+`<NO MEETING DATE> `Rating: 4 :warning:
 - Can't remember much about this except he seemed to be arguing unconvingly that they aren't much good for anything.
 
 #### Christiana Figueres and Tom Rivet Carnac *The Future We Choose: A Stubborn Optimist’s Guide to the Climate Crisis*
@@ -100,7 +100,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Important given the Brexit and the general rise of nationalist populism, driven, to a great extent by the demographic that Collins was describing.
 
 #### Rosalind Coward *Sacred Cows: Is Feminism Relevant to the New Millennium?*
-`<NO MEETING DATE> `Rating: 5 ⚠
+`<NO MEETING DATE> `Rating: 5 :warning:
 - Left no impression!
 
 #### Theodore Dalrymple *Life at the Bottom: The Worldview That Makes the Underclass*
@@ -112,7 +112,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 `<NO MEETING DATE> `
 
 #### Daniel Dennett *Freedom Evolves*
-`<NO MEETING DATE> `Rating: 7 ⚠
+`<NO MEETING DATE> `Rating: 7 :warning:
 - Like much of the philosophy, half the book group couldn't see the point.
 - Elegantly written of course (it's Dennett), and I've given it 7 if only for the global coin-tossing competition image, which I love.
 
@@ -137,7 +137,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 `<NO MEETING DATE> `
 
 #### Cordelia Fine *Delusions of Gender: The Real Science Behind Sex Differences*
-`2016 `Rating: 8 ⚠
+`2016 `Rating: 8 :warning:
 - I had to miss this book club meeting and didn't finish the book.
 - But it was extremely popular, so that why I've given it high rating: with a warning.
 
@@ -151,7 +151,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - But a patchy as an explanation or intellectual foundation of existential psychotherapy.
 
 #### Frank Furedi *Where have all the intellectuals gone?*
-`<NO MEETING DATE> `Rating: 4 ⚠
+`<NO MEETING DATE> `Rating: 4 :warning:
 - Christ! Almost no memory of this except it seemed a fairly pointless provocation.
 
 #### Atul Gawande *Being Mortal: Illness, Medicine and What Matters in the End*
@@ -159,7 +159,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Humane and graceful description of how to approach death.
 
 #### Anthony Giddens *The Third Way and its Critics: Sequel to "The Third Way"*
-`<NO MEETING DATE> `Rating: 5 ⚠
+`<NO MEETING DATE> `Rating: 5 :warning:
 - All trace of this melted from my brain a long time ago.
 
 #### Malcom Gladwell *Outliers: The Story of Success*
@@ -170,13 +170,13 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - A necessary book cataloging the misdeeds of big pharma.
 
 #### David Graeber *Bullshit Jobs: The Rise of Pointless Work, and What We Can Do About It*
-`2018 `Rating: 8 ⚠
+`2018 `Rating: 8 :warning:
 - Fun read bursting with subsersive ideas
 - Made sense of much of my frustration with corporate life.
 - Some in the group thought it had big intellectual gaps, e.g. is it really waste when it is essential to try several ideas, many of which you know won't work?
 
 #### David Graeber *Debt: The First 5000 Years*
-`<NO MEETING DATE> `Rating: 9 ⚠
+`<NO MEETING DATE> `Rating: 9 :warning:
 - Extraordinary book, full of fascinating ideas of vital importance. Rich in anthropological stories and analyses, and a revisionist history of the world from the perspective of the concept of debt.
 - Long shaggy and rambling, but brilliant.
 
@@ -202,7 +202,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Can only remember it wasn't as good as I'd hoped.
 
 #### Tom Holland *Domininion*
-`2019 `Rating: 8 ⚠
+`2019 `Rating: 8 :warning:
 - One of the most controversial books in terms of interest and enjoyment.
 - I liked it a lot. Punchy, well written, a strong though very debatable central thesis, well organised and an incredible range of reference.
 - Others found it wrong-headed, annoying, bordering on offensive.
@@ -249,7 +249,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 `<NO MEETING DATE> `
 
 #### Bernard Lewis *The Crisis of Islam: Holy War and Unholy Terror*
-`<NO MEETING DATE> `Rating: 6 ⚠
+`<NO MEETING DATE> `Rating: 6 :warning:
 - Only the vaguest memory of this - I think it seemed a convincing historial account.
 
 #### Michael Lewis *Boomerang: The Metdown Tour*
@@ -283,7 +283,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - I enjoyed it at the time, and it seemed important. But apart from that I can remember nothing about it at all, sadly. And things seems to have become significantly worse since it was written.
 
 #### Jan Werner Muller *What is Populism*
-`2019 `Rating: 8 ⚠
+`2019 `Rating: 8 :warning:
 - I thought it was clear and well argued, nicely explaining a complex thesis and a lot of ancillary ideas about democracy.
 - Others didn't like it so much, I think they felt it missed the point somehow.
 
@@ -303,7 +303,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Great writing, vivid and angry.
 
 #### Thomas Piketty *Capital in the Twenty-First Century*
-`<NO MEETING DATE> `Rating: 7 ⚠
+`<NO MEETING DATE> `Rating: 7 :warning:
 - Huge book with endless historical detail.
 - Nearly broke the book club!
 
@@ -320,13 +320,13 @@ It was interesting which books I remembered and which I didn't. Some from even t
 `<NO MEETING DATE> `
 
 #### Carlo Rovelli *Helgoland*
-`2021 `Rating: 7 ⚠
+`2021 `Rating: 7 :warning:
 - History of quantum mechanics, a new interpreation, and the mind/brain problem solved: all in 200 pages.
 - Wildly overambitious but elegantly written.
 - The explanations were well written but maybe not as clear as they could have been, for some people that made the book infuriating.
 
 #### Malise Ruthven *Fundamentalism: The Search For Meaning*
-`<NO MEETING DATE> `Rating: 6 ⚠
+`<NO MEETING DATE> `Rating: 6 :warning:
 - Not much trace of this in my mind, other than a vaguely positive blur.
 
 #### Angela Saini *Superior: The return of race science*
@@ -351,7 +351,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Not always easy to follow, you need a pretty good idea of the history of the period.
 
 #### Mike Savage *Social Class in the 21st Century*
-`2016 `Rating: 2 ⚠
+`2016 `Rating: 2 :warning:
 - Based on the BBC's Great British Class Survey
 - A summary of their satistical clustering analysis.
 - Unpolished, uninsightful and for me very boring.
@@ -415,7 +415,7 @@ It was interesting which books I remembered and which I didn't. Some from even t
 - Memorable well-made arguments for why technology might be damaging our relationships.
 
 #### JD Vance *Hillbilly Elegy: A Memoir of a Family and Culture in Crisis*
-`2108 `Rating: 8 ⚠
+`2108 `Rating: 8 :warning:
 - Life and culture in poor white America by someone who worked his way out.
 - I liked it very mcuh - vividly written, authentic; seemed to me an insight into a way of life I knew little about.
 - Very divisive book - others in book club thought it sexist and dishonest.
