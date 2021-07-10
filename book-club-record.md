@@ -5,7 +5,7 @@ description: The List of Books
 
 ## Introduction
 
-The (Generally) Non-Fiction Book Club has been many years, its origins a matter of debate.
+The (Generally) Non-Fiction Book Club has been running many years, its origins a matter of debate.
 
 I've tried to list of the books we've read. The ratings and comments are mine - I've given a warning if a rating is controversial, but such is the nature of book club, I expect that which ratings are controversial and which are not will itself be disputed.
 
