@@ -22,7 +22,7 @@
     {% if page.url == '/booklist.html' %}
         <script src="https://kit.fontawesome.com/995b43d00c.js" crossorigin="anonymous"></script>
         <script type="module">
-            import renderWhenReady from '/assets/scripts/books.js'
+            import renderWhenReady from "{{ '/assets/scripts/books.js' | relative_url }}"
             renderWhenReady({ratingsSelector: '.rating-stars'})
         </script>
     {% endif %}
