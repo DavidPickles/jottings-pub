@@ -2,3 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+
+.book {
+    border: 1px solid;
+    padding: 10px;
+    margin-bottom: 30px;
+    box-shadow: 5px 5px lightgrey;
+}

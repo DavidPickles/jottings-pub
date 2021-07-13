@@ -1,0 +1,29 @@
+---
+title: The (Generally) Non-Fiction Book CLub
+description: The List of the Books
+layout: default
+---
+<p>
+    {{ site.data.books.intro | markdownify }}
+</p>
+<div class="books">
+    {% for book in site.data.books.books %}
+    <div class="book">
+        <h4>{{ book.author }} <em>{{ book.title }}</em></h4>
+        <p>
+            <code class="language-plaintext highlighter-rouge">{{ book.meeting_date}}</code>
+            {% if book.rating==-1 %}
+            :man_shrugging:
+            {% else %}
+                <span class="rating-stars" data-rating-value="{{ book.rating }}" ></span>
+            {% endif %}
+            {% if book.rating_warning %}:warning:{% endif %}
+        </p>
+        <ul>
+            {% for remark in book.remarks %}
+            <li>{{ remark }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endfor %}
+</div>
