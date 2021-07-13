@@ -6,9 +6,11 @@ export default ({ratingsSelector}) => {
     })
 }
 
+// val must be 0-10
 function toStars(val) {
-    const yellows = '<i class="fas fa-star" style="color: gold;"></i>'.repeat(val/2)
-    const half = val%2 === 1 ? '<i class="fas fa-star-half-alt" style="color: gold"></i>' : ''
-    const whites = '<i class="far fa-star" style="color: gold"></i>'.repeat(5 - val/2)
-    return yellows + half + whites
+    const stars = (icon, count) => `<i class="${icon}" style="color: gold;"></i>`.repeat(count)
+    const full = stars("fas fa-star", val/2)
+    const half = stars("fas fa-star-half-alt", +val%2)
+    const empty = stars("far fa-star", 5 - val/2)
+    return full + half + empty
 }
