@@ -8,12 +8,13 @@ layout: default
 </p>
 <div class="book-sort-control">
     <span class="book-sort-title">Sort by:</span>
-    <span class="book-sort-options">
-        <span><input type="radio" value="authorKey" name="book-sort-key" checked />Author</span>
-        <span><input type="radio" value="titleKey" name="book-sort-key"  />Title</span>
-        <span><input type="radio" value="ratingValue" name="book-sort-key" />Rating</span>
+    <span class="book-sort-keys">
+        <span><input type="radio" value="authorKey" name="book-sort-key" checked /> Author</span>
+        <span><input type="radio" value="titleKey" name="book-sort-key"  /> Title</span>
+        <span><input type="radio" value="year" name="book-sort-key"  /> Year</span>
+        <span><input type="radio" value="ratingValue" name="book-sort-key" /> Rating</span>
     </span>
-    <span class="book-sort-options">
+    <span class="book-sort-directions">
         <span><input type="radio" value="ascending" name="book-sort-direction" checked /><i class="fas fa-sort-up"></i></span>
         <span><input type="radio" value="descending" name="book-sort-direction" /><i class="fas fa-sort-down"></i></span>
     </span>
@@ -23,6 +24,7 @@ layout: default
     <div class="book"
          data-rating-value="{{ book.rating }}"
          data-author-key="{{ book.sort_keys.author }}"
+         data-year="{{ book.meeting_date }}"
          data-title-key="{{ book.sort_keys.title }}">
         <h4>{{ book.author }} <em>{{ book.title }}</em></h4>
         <p>
