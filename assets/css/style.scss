@@ -8,12 +8,16 @@
     padding: 10px;
     margin-bottom: 30px;
     box-shadow: 5px 5px lightgrey;
+    background-color: white;
+}
+
+.books-panel {
+    background-color: lightyellow;
 }
 
 .book-sort-control {
-    background-color: lightyellow;
-    margin-bottom: 10px;
-    padding: 10px;
+    margin-bottom: 7px;
+    padding: 18px;
 }
 
 .book-sort-directions {
