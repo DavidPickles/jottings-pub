@@ -23,7 +23,7 @@
         <script src="https://kit.fontawesome.com/995b43d00c.js" crossorigin="anonymous"></script>
         <script type="module">
             import renderWhenReady from "{{ '/assets/scripts/books.js' | relative_url }}"
-            renderWhenReady({ratingsSelector: '.rating-stars'})
+            renderWhenReady()
         </script>
     {% endif %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
