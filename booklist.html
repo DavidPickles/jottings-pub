@@ -8,7 +8,15 @@ layout: default
 </p>
 <div class="books-panel">
 <div class="book-sort-control-container">
-    <span class="book-sort-control-group book-sort-title">Sort order:</span>
+    <span class="book-sort-control-group book-sort-title">Sort</span>
+    <span class="book-sort-control-group book-sort-directions">
+        <label><i class="fas fa-sort-up"></i>
+            <input type="radio" value="ascending" name="book-sort-direction" checked />
+        </label>
+        <label><i class="fas fa-sort-down"></i>
+            <input type="radio" value="descending" name="book-sort-direction" />
+        </label>
+    </span>
     <span class="book-sort-control-group book-sort-keys">
         <label>Author
             <input type="radio" value="authorKey" name="book-sort-key" checked />
@@ -21,14 +29,6 @@ layout: default
         </label>
         <label>Rating
             <input type="radio" value="ratingValue" name="book-sort-key" />
-        </label>
-    </span>
-    <span class="book-sort-control-group book-sort-directions">
-        <label><i class="fas fa-sort-up"></i>
-            <input type="radio" value="ascending" name="book-sort-direction" checked />
-        </label>
-        <label><i class="fas fa-sort-down"></i>
-            <input type="radio" value="descending" name="book-sort-direction" />
         </label>
     </span>
 </div>

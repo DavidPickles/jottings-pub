@@ -16,7 +16,6 @@
 }
 
 .book-sort-control-container {
-    margin-bottom: 0.4em;
     padding: 0.8em 0.8em 0.8em 1em;
     display: flex;
     flex-wrap: wrap;
@@ -24,6 +23,7 @@
 
 .book-sort-control-group {
     display: flex;
+    margin-bottom: 0.3em;
 }
 
 .book-sort-keys label {
@@ -39,18 +39,18 @@
 
 .book-sort-title {
     font-weight: bold;
-    margin-right: 1em;
+    margin-right: 0.6em;
 }
 
 .book-sort-directions {
-    margin-left: 2em;
+    margin-right: 2em;
 }
-/* Small screens */
-@media all and (max-width: 500px) {
-    .book-sort-directions {
-        margin:auto;
-    }
-}
+///* Small screens */
+//@media all and (max-width: 500px) {
+//    .book-sort-directions {
+//        margin:auto;
+//    }
+//}
 
 .book-sort-directions label {
      margin-left: 0.8em;
