@@ -2,13 +2,15 @@
 header: |+
   ---
   title: The (Generally) Non-Fiction Book Club
-  description: The List of Books
+  description: The list of the books
   ---
 
 intro: |+
-  Ratings and comments are mine - I've given a warning if a rating is controversial, but such is the nature of book club, I expect that which ratings are controversial and which are not will itself be disputed.
+  The (Generally) Non-Fiction Book Club has been running for several years though there is some dispute about its exact origins.
 
-  Not all books have ratings and comments - I'm working on that. Also I've probably missed some books. Help on both things gratefully received.
+  I've tried to list all the books we've read, along with the year in which we read it, but I've certainly missed some, and some I haven't been able to date. Help on these things would be much appreciated.
+
+  I've also tried to provide ratings and comments. I've given a warning if a rating is controversial, but such is the nature of book club, I expect that which ratings are controversial and which are not will itself be hotly disputed.
 
   It is interesting which books I remembered and which I didn't. Some from even the earliest years are still quite vivid. Others, even some from not long ago, are blanks. I've tried to be straight about what I can remember and what I can't, but memory, mine anyway, sometimes plays strange games.
 books:
@@ -21,6 +23,7 @@ books:
     rating_warning: false
     meeting_date: '2018'
     sort_keys:
+      date: '2018'
       author: Ainsley
       title: 'The New Working Class: How to Win Hearts, Minds and Votes'
   - title: 'The Biography of Loneliness: The History of an Emotion'
@@ -31,6 +34,7 @@ books:
     rating_warning: false
     meeting_date: '2020'
     sort_keys:
+      date: '2020'
       author: Alberti
       title: 'The Biography of Loneliness: The History of an Emotion'
   - title: The Idea of Communism
@@ -39,8 +43,9 @@ books:
       - It was a long time ago
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "2010"
     sort_keys:
+      date: '2010'
       author: Ali
       title: The Idea of Communism
   - title: The Future Lasts a Long Time
@@ -48,8 +53,9 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: '0000'
       author: Althusser
       title: The Future Lasts a Long Time
   - title: Somewhere Towards The End
@@ -61,6 +67,7 @@ books:
     rating_warning: false
     meeting_date: '2010'
     sort_keys:
+      date: '2010'
       author: Athill
       title: Somewhere Towards The End
   - title: Papers and artices on trans issues
@@ -74,6 +81,7 @@ books:
     rating_warning: false
     meeting_date: '2017'
     sort_keys:
+      date: '2017'
       author: Authors
       title: Papers and artices on trans issues
   - title: The Dark Net
@@ -83,8 +91,9 @@ books:
       - Perhaps a bit outdated by now.
     rating: 6
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "2015"
     sort_keys:
+      date: '2015'
       author: Bartlett
       title: The Dark Net
   - title: 'Men Who Hate Women: From incels to pickup artists, the truth about extreme
@@ -98,6 +107,7 @@ books:
     rating_warning: false
     meeting_date: '2021'
     sort_keys:
+      date: '2021'
       author: Bates
       title: 'Men Who Hate Women: From incels to pickup artists, the truth about extreme
       misogyny and how it affects us all'
@@ -107,8 +117,9 @@ books:
       - Can't pretend much as stayed with me apart from a fairly positive buzz.
     rating: 5
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: '0000'
       author: Baudrillard
       title: The Spirit of Teorrism
   - title: 'Risk Society: Towards a New Modernity'
@@ -116,8 +127,9 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: '0000'
       author: Beck
       title: 'Risk Society: Towards a New Modernity'
   - title: 'Inventing ourselves: The Secret Life of the Teenage Brain. '
@@ -129,6 +141,7 @@ books:
     rating_warning: false
     meeting_date: '2019'
     sort_keys:
+      date: '2019'
       author: Blakemore
       title: 'Inventing ourselves: The Secret Life of the Teenage Brain. '
   - title: 'Austerity: The History of Dangerous Idea'
@@ -139,6 +152,7 @@ books:
     rating_warning: false
     meeting_date: '2013'
     sort_keys:
+      date: '2013'
       author: Blyth
       title: 'Austerity: The History of Dangerous Idea'
   - title: 'Fear of Knowledge: Against Relativism and Constructivism'
@@ -146,8 +160,9 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: '0000'
       author: Boghossian
       title: 'Fear of Knowledge: Against Relativism and Constructivism'
   - title: What Good are the Arts?
@@ -157,8 +172,9 @@ books:
         they aren't much good for anything.
     rating: 4
     rating_warning: true
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: '0000'
       author: Carey
       title: What Good are the Arts?
   - title: 'The Future We Choose: A Stubborn Optimist’s Guide to the Climate Crisis'
@@ -170,7 +186,8 @@ books:
     rating_warning: false
     meeting_date: '2020'
     sort_keys:
-      author: Carnac
+      date: '2020'
+      author: Figueres and Carnac
       title: 'The Future We Choose: A Stubborn Optimist’s Guide to the Climate Crisis'
   - title: 'How Markets Fail: The Logic of Economic Calamities'
     author: John Cassidy
@@ -178,8 +195,9 @@ books:
       - Looks good, wish I could remember something about it.
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: '0000'
       author: Cassidy
       title: 'How Markets Fail: The Logic of Economic Calamities'
   - title: 'A New Generation Draws the Line: Kosovo, East Timor and the Standards of
@@ -189,19 +207,23 @@ books:
       - I'd like to like Chomsky, but this one didn't leave much lasting impression
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: '0000'
       author: Chomsky
       title: 'A New Generation Draws the Line: Kosovo, East Timor and the Standards
       of the West'
   - title: 'What''s Left?: How the Left Lost its Way'
     author: Nick Cohen
     remarks:
-      - It was a long tie ago we read this, and I think it even preceded Corbyn.
+      - Readable attack on the left from a left perspecive.
+      - Against identity politics.
+      - Pro second gulf war on the ground that Saddam Hussein was a fascist.
     rating: 6
-    rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    rating_warning: true
+    meeting_date: "Before 2010"
     sort_keys:
+      date: '0000'
       author: Cohen
       title: 'What''s Left?: How the Left Lost its Way'
   - title: 'The Essential Difference: Men, Women and the Extreme Male Brain'
@@ -214,8 +236,9 @@ books:
         man and woman's neural biology.
     rating: 7
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: '0000'
       author: Cohen
       title: 'The Essential Difference: Men, Women and the Extreme Male Brain'
   - title: 'Yes We Have No: Adventures in Other England'
@@ -223,8 +246,9 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: '0000'
       author: Cohn
       title: 'Yes We Have No: Adventures in Other England'
   - title: 'The Likes of Us: An Official Biography of the White Working Class'
@@ -236,8 +260,9 @@ books:
         to a great extent by the demographic that Collins was describing.
     rating: 8
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: '0000'
       author: Collins
       title: 'The Likes of Us: An Official Biography of the White Working Class'
   - title: 'Sacred Cows: Is Feminism Relevant to the New Millennium?'
@@ -246,8 +271,9 @@ books:
       - Left no impression!
     rating: 5
     rating_warning: true
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: '0000'
       author: Coward
       title: 'Sacred Cows: Is Feminism Relevant to the New Millennium?'
   - title: 'Life at the Bottom: The Worldview That Makes the Underclass'
@@ -258,8 +284,9 @@ books:
       - He's a reactionary of sorts, but thoughful and compassionate.
     rating: 8
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: '0000'
       author: Dalrymple
       title: 'Life at the Bottom: The Worldview That Makes the Underclass'
   - title: The God Delusion
@@ -267,8 +294,9 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "2016"
     sort_keys:
+      date: '2016'
       author: Dawkins
       title: The God Delusion
   - title: Freedom Evolves
@@ -279,8 +307,9 @@ books:
         global coin-tossing competition image, which I love.
     rating: 7
     rating_warning: true
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
+      date: ''
       author: Dennett
       title: Freedom Evolves
   - title: 'Marx''s Revenge: The Resurgence of Capitalism and the Death of Statist Socialism'
@@ -288,8 +317,9 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: '0000'
       author: Desai
       title: 'Marx''s Revenge: The Resurgence of Capitalism and the Death of Statist
       Socialism'
@@ -299,7 +329,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Diamond
       title: 'Guns Germs and Steel: Guns, Germs and Steel: A short history of everybody
@@ -312,7 +342,7 @@ books:
       - Mixed reception in the group, some thought it lacked sufficient economic sophistication.
     rating: 6
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Dorling
       title: 'All That is Solid: How the Great Housing Disaster Defines Our Times, and
@@ -328,6 +358,7 @@ books:
     rating_warning: false
     meeting_date: '2018'
     sort_keys:
+      date: '2018'
       author: Eddo-Lodge
       title: Why I'm Longer Talking to White People About Race
   - title: Civil Society
@@ -335,7 +366,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Edwards
       title: Civil Society
@@ -349,6 +380,7 @@ books:
     rating_warning: true
     meeting_date: '2016'
     sort_keys:
+      date: '2016'
       author: Fine
       title: 'Delusions of Gender: The Real Science Behind Sex Differences'
   - title: 'Connected: The Amazing Power of Social Networks and How They Shape Our Lives'
@@ -358,7 +390,7 @@ books:
         relations, but not quite interesting enough for anything to stay with me.
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Fowler
       title: 'Connected: The Amazing Power of Social Networks and How They Shape Our
@@ -372,6 +404,7 @@ books:
     rating_warning: false
     meeting_date: '2019'
     sort_keys:
+      date: '2019'
       author: Frankl
       title: Man's Search for Meaning
   - title: Where have all the intellectuals gone?
@@ -380,7 +413,7 @@ books:
       - Christ! Almost no memory of this except it seemed a fairly pointless provocation.
     rating: 4
     rating_warning: true
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Furedi
       title: Where have all the intellectuals gone?
@@ -390,7 +423,7 @@ books:
       - Humane and graceful description of how to approach death.
     rating: 9
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Gawande
       title: 'Being Mortal: Illness, Medicine and What Matters in the End'
@@ -400,7 +433,7 @@ books:
       - All trace of this melted from my brain a long time ago.
     rating: 5
     rating_warning: true
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Giddens
       title: 'The Third Way and its Critics: Sequel to "The Third Way"'
@@ -409,7 +442,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Gladwell
       title: 'Outliers: The Story of Success'
@@ -421,6 +454,7 @@ books:
     rating_warning: false
     meeting_date: '2012'
     sort_keys:
+      date: '2012'
       author: Goldacre
       title: 'Bad Pharma: How Medicine is Broken, And How We Can Fix It'
   - title: 'Bullshit Jobs: The Rise of Pointless Work, and What We Can Do About It'
@@ -434,6 +468,7 @@ books:
     rating_warning: true
     meeting_date: '2018'
     sort_keys:
+      date: '2018'
       author: Graeber
       title: 'Bullshit Jobs: The Rise of Pointless Work, and What We Can Do About It'
   - title: 'Debt: The First 5000 Years'
@@ -445,8 +480,9 @@ books:
       - Long shaggy and rambling, but brilliant.
     rating: 9
     rating_warning: true
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
+      date: ''
       author: Graeber
       title: 'Debt: The First 5000 Years'
   - title: Straw Dogs
@@ -454,7 +490,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Gray
       title: Straw Dogs
@@ -464,7 +500,7 @@ books:
       - Promised a lot but didn't feel like it delivered the analysis that is needed.
     rating: 5
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Hacking
       title: The Social Construction of What?
@@ -477,6 +513,7 @@ books:
     rating_warning: false
     meeting_date: '2017'
     sort_keys:
+      date: '2017'
       author: Haidt
       title: 'The Righteous Mind: Why Good People are Divided by Politics and Religion'
   - title: 'On the Edge: The Contested Cultures of English Suburbia: The Contested Cultures
@@ -485,7 +522,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Haq
       title: 'On the Edge: The Contested Cultures of English Suburbia: The Contested
@@ -495,7 +532,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Harris
       title: 'The End of Faith: Religion, Terror, and the Future of Reason'
@@ -505,7 +542,7 @@ books:
       - Can only remember it wasn't as good as I'd hoped.
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Heasman
       title: 'Food Wars: Food Wars: The Global Battle for Mouths, Minds and Markets'
@@ -520,6 +557,7 @@ books:
     rating_warning: true
     meeting_date: '2019'
     sort_keys:
+      date: '2019'
       author: Holland
       title: Domininion
   - title: Atomised
@@ -527,7 +565,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Houellebecq
       title: Atomised
@@ -541,6 +579,7 @@ books:
     rating_warning: false
     meeting_date: '2017'
     sort_keys:
+      date: '2017'
       author: Hrari
       title: 'Homo Deus: A Brief History of Tomorrow'
   - title: 'The Establishment: And How They Get Away With It'
@@ -549,7 +588,7 @@ books:
       - Smoothly written, well-informed, and persuasive.
     rating: 6
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Jones
       title: 'The Establishment: And How They Get Away With It'
@@ -558,7 +597,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Jones
       title: Utopian Dreams
@@ -571,7 +610,7 @@ books:
         have encouraged it.
     rating: 7
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Judah
       title: 'This is London:  Life and Death in the World City'
@@ -583,6 +622,7 @@ books:
     rating_warning: false
     meeting_date: '2012'
     sort_keys:
+      date: '2012'
       author: Kahneman
       title: Thinking Fast and Slow
   - title: 'The Deficit Myth: Modern Monetary Theory and How to Build a Better Economy'
@@ -594,6 +634,7 @@ books:
     rating_warning: false
     meeting_date: '2021'
     sort_keys:
+      date: '2021'
       author: Kelton
       title: 'The Deficit Myth: Modern Monetary Theory and How to Build a Better Economy'
   - title: 'It''s Not About the Burqa: Muslim Women on Faith, Feminism, Sexuality and
@@ -606,6 +647,7 @@ books:
     rating_warning: false
     meeting_date: '2021'
     sort_keys:
+      date: '2021'
       author: Khan
       title: 'It''s Not About the Burqa: Muslim Women on Faith, Feminism, Sexuality
       and Race'
@@ -614,7 +656,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Layard
       title: 'Happiness: Lessons from a New Science'
@@ -623,7 +665,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Levi
       title: If This is a Man
@@ -633,11 +675,11 @@ books:
       - Only the vaguest memory of this - I think it seemed a convincing historial account.
     rating: 6
     rating_warning: true
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Lewis
       title: 'The Crisis of Islam: Holy War and Unholy Terror'
-  - title: 'Boomerang: The Metdown Tour'
+  - title: 'Boomerang: The Meltdown Tour'
     author: Michael Lewis
     remarks:
       - Bit of a romp, but very vivid writing and I still remember much of the very funny,
@@ -646,8 +688,9 @@ books:
     rating_warning: false
     meeting_date: '2011'
     sort_keys:
+      date: '2011'
       author: Lewis
-      title: 'Boomerang: The Metdown Tour'
+      title: 'Boomerang: The Meltdown Tour'
   - title: What the Media are doing to our Politics
     author: John Lloyd
     remarks:
@@ -656,7 +699,7 @@ books:
         media stopped challenging coroporate and political PR machines.
     rating: 8
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Lloyd
       title: What the Media are doing to our Politics
@@ -665,7 +708,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Lukes
       title: 'Liberals & Cannibals: The Implications of Diversity'
@@ -676,7 +719,7 @@ books:
       - Well explained leftist ideas in economics.
     rating: 7
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Mason
       title: 'Post Capitalism: A Guide to Our Future'
@@ -690,6 +733,7 @@ books:
     rating_warning: false
     meeting_date: '2020'
     sort_keys:
+      date: '2020'
       author: Michaels
       title: 'The Triumph of Doubt: Dark Money and the Science of Deception'
   - title: The State in Capitalist Society
@@ -699,7 +743,7 @@ books:
         written and I enjoyed it a time?
     rating: 6
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Miliband
       title: The State in Capitalist Society
@@ -713,6 +757,7 @@ books:
     rating_warning: false
     meeting_date: '2017'
     sort_keys:
+      date: '2017'
       author: Mombiot
       title: 'Out of the Wreckage: A new politics for an Age of Crisis'
   - title: What is Populism
@@ -725,6 +770,7 @@ books:
     rating_warning: true
     meeting_date: '2019'
     sort_keys:
+      date: '2019'
       author: Muller
       title: What is Populism
   - title: 'The Madness of Crowds: Gender, Race and Identity'
@@ -735,6 +781,7 @@ books:
     rating_warning: false
     meeting_date: '2020'
     sort_keys:
+      date: '2020'
       author: Murray
       title: 'The Madness of Crowds: Gender, Race and Identity'
   - title: 'A Quesiton of Trust: The Reith Lectures 2002'
@@ -742,7 +789,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: O'Neill
       title: 'A Quesiton of Trust: The Reith Lectures 2002'
@@ -755,6 +802,7 @@ books:
     rating_warning: false
     meeting_date: '2020'
     sort_keys:
+      date: '2020'
       author: Ord
       title: 'The Precipice: Existential Risk and the Future of Humanity'
   - title: The Road to Wigan Pier
@@ -765,6 +813,7 @@ books:
     rating_warning: false
     meeting_date: '2013'
     sort_keys:
+      date: '2013'
       author: Orwell
       title: The Road to Wigan Pier
   - title: Capital in the Twenty-First Century
@@ -774,7 +823,7 @@ books:
       - Nearly broke the book club!
     rating: 7
     rating_warning: true
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Piketty
       title: Capital in the Twenty-First Century
@@ -786,7 +835,7 @@ books:
         particulary the amazing chapter on identical twins.
     rating: 7
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Pinker
       title: 'The Blank Slate: The Modern Denial of Human Nature'
@@ -797,7 +846,7 @@ books:
         collapse of social capital in the US.
     rating: 9
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Putnam
       title: 'Bowling Alone: The Collapse and Revival of American Community'
@@ -806,7 +855,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Rorty
       title: Contingency, Irony, and Solidarity
@@ -822,6 +871,7 @@ books:
     rating_warning: true
     meeting_date: '2021'
     sort_keys:
+      date: '2021'
       author: Rovelli
       title: Helgoland
   - title: 'Fundamentalism: The Search For Meaning'
@@ -830,7 +880,7 @@ books:
       - Not much trace of this in my mind, other than a vaguely positive blur.
     rating: 6
     rating_warning: true
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Ruthven
       title: 'Fundamentalism: The Search For Meaning'
@@ -847,6 +897,7 @@ books:
     rating_warning: false
     meeting_date: '2019'
     sort_keys:
+      date: '2019'
       author: Saini
       title: 'Superior: The return of race science'
   - title: 'The Tyranny of Merit: Why the Promise of Moving Up Is Pulling America Apart'
@@ -859,6 +910,7 @@ books:
     rating_warning: false
     meeting_date: '2020'
     sort_keys:
+      date: '2020'
       author: Sandel
       title: 'The Tyranny of Merit: Why the Promise of Moving Up Is Pulling America
       Apart'
@@ -871,6 +923,7 @@ books:
     rating_warning: false
     meeting_date: '2012'
     sort_keys:
+      date: '2012'
       author: Sandel
       title: 'What Money Can''t Buy: The Moral Limits of Markets'
   - title: 'East West Street: on the origins of genocide and crimes against humanity'
@@ -885,6 +938,7 @@ books:
     rating_warning: false
     meeting_date: '2021'
     sort_keys:
+      date: '2021'
       author: Sands
       title: 'East West Street: on the origins of genocide and crimes against humanity'
   - title: Social Class in the 21st Century
@@ -898,6 +952,7 @@ books:
     rating_warning: true
     meeting_date: '2016'
     sort_keys:
+      date: '2016'
       author: Savage
       title: Social Class in the 21st Century
   - title: 'The Paradox of Choice: Why More is Less'
@@ -907,7 +962,7 @@ books:
       - Simple but convincing, not clear what the solution is though.
     rating: 7
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Schwartz
       title: 'The Paradox of Choice: Why More is Less'
@@ -918,7 +973,7 @@ books:
       - Cogent, honest, authorative, beatifully written, and slightly bonkers.
     rating: 8
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Scruton
       title: England An Elegy
@@ -927,7 +982,7 @@ books:
     remarks: []
     rating: 7
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Sen
       title: Development as Freedom
@@ -937,7 +992,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Sennett
       title: 'The Corrosion of Character: The Personal Consequences of Work in the New
@@ -947,7 +1002,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Shriver
       title: We Need to Talk about Kevin
@@ -959,7 +1014,7 @@ books:
         vaguely ashamed of myself.
     rating: 8
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Singer
       title: 'The Life you can Save: How To Do Your Part To End World Poverty'
@@ -970,7 +1025,7 @@ books:
       - Ok I do eat less meat because of this, but I'm not doing nearly enough.
     rating: 8
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Singer
       title: Animal Liberation
@@ -979,7 +1034,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Skidelsky
       title: 'How Much is Enough?: The Love of Money, and the Case for the Good Life'
@@ -994,6 +1049,7 @@ books:
     rating_warning: false
     meeting_date: '2019'
     sort_keys:
+      date: '2019'
       author: Smith
       title: 'Other Minds: The Octopus, The Sea, and the Deep Origins of Consciousness'
   - title: 'On Tyranny: Twenty Lessons from the Twentieth Century'
@@ -1006,6 +1062,7 @@ books:
     rating_warning: false
     meeting_date: '2017'
     sort_keys:
+      date: '2017'
       author: Snyder
       title: 'On Tyranny: Twenty Lessons from the Twentieth Century'
   - title: 'Basic Income: And How we can make it happen.'
@@ -1019,6 +1076,7 @@ books:
     rating_warning: false
     meeting_date: '2017'
     sort_keys:
+      date: '2017'
       author: Standing
       title: 'Basic Income: And How we can make it happen.'
   - title: 'The Secret Barrister: Stories of the Law and How It''s Broken'
@@ -1029,6 +1087,7 @@ books:
     rating_warning: false
     meeting_date: '2018'
     sort_keys:
+      date: '2018'
       author: The
       title: 'The Secret Barrister: Stories of the Law and How It''s Broken'
   - title: 'Alone Together: Why We Expect More from Technology and Less from Each Other'
@@ -1039,6 +1098,7 @@ books:
     rating_warning: false
     meeting_date: '2013'
     sort_keys:
+      date: '2013'
       author: Turkle
       title: 'Alone Together: Why We Expect More from Technology and Less from Each
       Other'
@@ -1051,8 +1111,9 @@ books:
       - Very divisive book - others in book club thought it sexist and dishonest.
     rating: 8
     rating_warning: true
-    meeting_date: '2108'
+    meeting_date: '2018'
     sort_keys:
+      date: '2018'
       author: Vance
       title: 'Hillbilly Elegy: A Memoir of a Family and Culture in Crisis'
   - title: 'Adults in the Room: My Battle with Europe''s Deep Establishment'
@@ -1065,6 +1126,7 @@ books:
     rating_warning: false
     meeting_date: '2017'
     sort_keys:
+      date: '2018'
       author: Varoufakis
       title: 'Adults in the Room: My Battle with Europe''s Deep Establishment'
   - title: 'War of Return, The: How Western Indulgence of the Palestinian Dream Has
@@ -1076,6 +1138,7 @@ books:
     rating_warning: false
     meeting_date: '2020'
     sort_keys:
+      date: '2020'
       author: Wilf
       title: 'War of Return, The: How Western Indulgence of the Palestinian Dream Has
       Obstructed the Path to Peace'
@@ -1087,7 +1150,7 @@ books:
         to roost.
     rating: 9
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Wilkinson
       title: 'The Spirit Level: : Why Equality is Better for Everyone'
@@ -1096,7 +1159,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Wolf
       title: Why Globalisation Works
@@ -1109,6 +1172,7 @@ books:
     rating_warning: false
     meeting_date: '2019'
     sort_keys:
+      date: '2019'
       author: Yalom
       title: Love's Executioner and other tales of Psychotherapy
   - title: An Intimate History of Humanity
@@ -1117,7 +1181,7 @@ books:
       - Pretentious twaddle about insufferable people.
     rating: 2
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Zeldin
       title: An Intimate History of Humanity
@@ -1126,7 +1190,7 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "<NO MEETING DATE>"
+    meeting_date: "Unknown"
     sort_keys:
       author: Zizek
       title: 'Violence: Six sideways reflections'
