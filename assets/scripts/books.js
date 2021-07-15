@@ -14,8 +14,11 @@ export default () => {
         $(ratingsSelector).each( (i,el) => el.innerHTML = toStars( el.dataset.ratingValue) )
         sortKey = $(sortKeySelector + ':checked').val()
         sortDirection = $(sortDirectionSelector + ':checked').val()
-        $(sortKeySelector).change( ev => setSortKey(ev.currentTarget.value) )
-        $(sortDirectionSelector).change( ev => setSortDirection(ev.currentTarget.value) )
+        // defensive, otherwise a bit brittle, relying on sort order of incoming data matching controls
+        $(bookListSelector).html( getSortedBooks(sortKey, sortDirection) )
+        // set up change events
+        $(sortKeySelector).change( ev => changeSortKey(ev.currentTarget.value) )
+        $(sortDirectionSelector).change( ev => changeSortDirection(ev.currentTarget.value) )
     })
 }
 
@@ -28,12 +31,12 @@ function toStars(val) {
     return full + half + empty
 }
 
-function setSortDirection(direction) {
+function changeSortDirection(direction) {
     sortDirection = direction
     $(bookListSelector).html( getSortedBooks(sortKey, sortDirection) )
 }
 
-function setSortKey(key) {
+function changeSortKey(key) {
     sortKey = key
     $(bookListSelector).html( getSortedBooks(sortKey, sortDirection) )
 }
