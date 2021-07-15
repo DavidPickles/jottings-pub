@@ -15,19 +15,43 @@
     background-color: lightyellow;
 }
 
-.book-sort-control {
-    margin-bottom: 7px;
-    padding: 18px;
+.book-sort-control-container {
+    margin-bottom: 0.4em;
+    padding: 0.8em 0.8em 0.8em 1em;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.book-sort-control-group {
+    display: flex;
+}
+
+.book-sort-keys label {
+    margin-left: 1em;
+}
+
+.book-sort-keys label {
+    margin-left: 1em;
+}
+.book-sort-keys label:first-child {
+    margin-left: 0;
+}
+
+.book-sort-title {
+    font-weight: bold;
+    margin-right: 1em;
 }
 
 .book-sort-directions {
-    margin-left: 35px;
+    margin-left: 2em;
+}
+/* Small screens */
+@media all and (max-width: 500px) {
+    .book-sort-directions {
+        margin:auto;
+    }
 }
 
-.book-sort-keys {
-    margin-left: 12px;
-}
-
-[name="book-sort-key"] {
-    margin-left: 8px;
-}
+.book-sort-directions label {
+     margin-left: 0.8em;
+ }

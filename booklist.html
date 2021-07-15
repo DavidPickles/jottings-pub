@@ -7,17 +7,29 @@ layout: default
     {{ site.data.books.intro | markdownify }}
 </p>
 <div class="books-panel">
-<div class="book-sort-control">
-    <span class="book-sort-title">Sort by:</span>
-    <span class="book-sort-keys">
-        <span><input type="radio" value="authorKey" name="book-sort-key" checked /> Author</span>
-        <span><input type="radio" value="titleKey" name="book-sort-key"  /> Title</span>
-        <span><input type="radio" value="year" name="book-sort-key"  /> Year</span>
-        <span><input type="radio" value="ratingValue" name="book-sort-key" /> Rating</span>
+<div class="book-sort-control-container">
+    <span class="book-sort-control-group book-sort-title">Sort order:</span>
+    <span class="book-sort-control-group book-sort-keys">
+        <label>Author
+            <input type="radio" value="authorKey" name="book-sort-key" checked />
+        </label>
+        <label>Title
+            <input type="radio" value="titleKey" name="book-sort-key"  />
+        </label>
+        <label>Year
+            <input type="radio" value="year" name="book-sort-key"  />
+        </label>
+        <label>Rating
+            <input type="radio" value="ratingValue" name="book-sort-key" />
+        </label>
     </span>
-    <span class="book-sort-directions">
-        <span><input type="radio" value="ascending" name="book-sort-direction" checked /><i class="fas fa-sort-up"></i></span>
-        <span><input type="radio" value="descending" name="book-sort-direction" /><i class="fas fa-sort-down"></i></span>
+    <span class="book-sort-control-group book-sort-directions">
+        <label><i class="fas fa-sort-up"></i>
+            <input type="radio" value="ascending" name="book-sort-direction" checked />
+        </label>
+        <label><i class="fas fa-sort-down"></i>
+            <input type="radio" value="descending" name="book-sort-direction" />
+        </label>
     </span>
 </div>
 <div id="books">
