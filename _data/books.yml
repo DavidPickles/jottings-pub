@@ -530,7 +530,7 @@ books:
     author: Victor E Frankl
     remarks:
       - Harrowing and insightful account of the author's experience in the camps.
-      - But a patchy as an foundation or explanation of existential psychotherapy.
+      - But patchy and unconvincing as an foundation or explanation of existential psychotherapy.
     rating: 5
     rating_warning: false
     meeting_date: '2019'
@@ -823,6 +823,7 @@ books:
     meeting_date: "Before 2010"
     known_date: "2005"
     sort_keys:
+      date: '0000'
       author: Layard, Richard
       title: 'Happiness: Lessons from a New Science'
   - title: If This is a Man
