@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+.page-header {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
 .book {
     border: 1px solid;
     padding: 10px;
@@ -16,22 +21,22 @@
 }
 
 .book-sort-control-container {
-    padding: 0.8em 0.8em 0.8em 1em;
+    padding: 0.8rem 0.8rem 0.8rem 1rem;
     display: flex;
     flex-wrap: wrap;
 }
 
 .book-sort-control-group {
     display: flex;
-    margin-bottom: 0.3em;
+    margin-bottom: 0.3rem;
 }
 
 .book-sort-keys label {
-    margin-left: 1em;
+    margin-left: 1rem;
 }
 
 .book-sort-keys label {
-    margin-left: 1em;
+    margin-left: 1rem;
 }
 .book-sort-keys label:first-child {
     margin-left: 0;
@@ -39,19 +44,13 @@
 
 .book-sort-title {
     font-weight: bold;
-    margin-right: 0.6em;
+    margin-right: 0.6rem;
 }
 
 .book-sort-directions {
-    margin-right: 2em;
+    margin-right: 2rem;
 }
-///* Small screens */
-//@media all and (max-width: 500px) {
-//    .book-sort-directions {
-//        margin:auto;
-//    }
-//}
 
 .book-sort-directions label {
-     margin-left: 0.8em;
+     margin-left: 0.8rem;
  }

@@ -6,20 +6,129 @@ header: |+
   ---
 
 intro: |+
-  The (Generally) Non-Fiction Book Club has been running for several years though there is some dispute about its exact origins.
+  The (Generally) Non-Fiction Book Club has been running for about twenty years, though its precise origins are disputed.
 
-  I've tried to list all the books we've read, along with the year in which we read it, but I've certainly missed some, and some I haven't been able to date. Help on these things would be much appreciated.
+  I've tried to list here all the books we've read, along with the year in which we read them, though I haven't tried to give dates before 2010.
 
-  I've also tried to provide ratings and comments. I've given a warning if a rating is controversial, but such is the nature of book club, I expect that which ratings are controversial and which are not will itself be hotly disputed.
+  I've certainly missed some books, probably even some quite recent ones. So help with that would be appreciated.
+
+  I've also provided ratings and comments. I've given a warning if a rating is controversial, but such is the nature of book club, I expect that which ratings are controversial and which are not will itself be hotly disputed.
 
   It is interesting which books I remembered and which I didn't. Some from even the earliest years are still quite vivid. Others, even some from not long ago, are blanks. I've tried to be straight about what I can remember and what I can't, but memory, mine anyway, sometimes plays strange games.
 books:
+  - title: "ISIS: Inside the Army of Terror"
+    author: Michael Weiss and Hassan Hassan
+    remarks:
+      - Interesting and deeply depressing history of ISIS, how it gained so much momentum from mis-steps by the US.
+    rating: 6
+    meeting_date: "2015"
+    sort_keys:
+      author: Weiss, Michael and Hassan, Hassan
+      title: "ISIS: Inside the Army of Terror"
+      date: "2015"
+  - title: "The Ragged Trousered Philanthropists"
+    author: "Robert Tressell"
+    remarks:
+      - A classic book first published in 1914 making the case for socialism by describing the lives of ordinary working people, their decency, and their exploitation.
+    meeting_date: "2015"
+    rating: 6
+    sort_keys:
+      date: "2015"
+      title: "The ragged trousered philanthropists"
+      author: "Tressell, Robert"
+  - title: "Stuart: A Life Backwards"
+    author: Alexander Masters
+    remarks:
+      - Wonderful book about the life of a homeless damaged man, befriended by the author.
+    rating: 9
+    meeting_date: "Unknown"
+    sort_keys:
+      title: "Stuart: A Life Backwards"
+      author: "Masters, Alexander"
+  - title: "The Bankers' New Clothes: What's Wrong wth Banking and What to Do about it"
+    author: Amat Admati and Martin Hellwig
+    remarks:
+      - Readable, clear and enjoyable if this is an area you're interested in (not everyone is).
+      - Basic idea that banks should be forced to hold more equity is very persuasive.
+    rating: 7
+    rating_warning: true
+    meeting_date: "2013"
+    sort_keys:
+      date: "2013"
+      author: Admati, Amat and Hellwig, Martin
+      title: "The Bankers' New Clothes"
+  - title: The Genius in my Basement
+    author: Alexander Masters
+    remarks:
+      - Enjoyable, vividly written life story of a mathematical genius, who at the time of writing had given up maths, and was living in chaos, happily collecting bus timetables.
+    meeting_date: 2011
+    rating: 8
+    sort_keys:
+      author: Masters, Alexander
+      title: The Genius in my Basement
+      date: "2011"
+  - title: "Cold Intimacies: The Making of Emotional Capitalism"
+    author: Eva Illouz
+    remarks:
+      - Sounds interesting but I can't remember a thing.
+    rating: -1
+    date: "Before 2010"
+    known_date: "2008"
+    sort_keys:
+      author: Illouz, Eva
+      title: Cold Intimacies
+      date: "0000"
+  - title: "Female Chauvinist Pigs: Women and the Rise of Raunch Culture"
+    author: Ariel Levy
+    remarks:
+      - Bit of a blank, this one.
+    rating: -1
+    meeting_date:  "Before 2010"
+    known_date: "2007"
+    sort_keys:
+      date: "0000"
+      author: Levy, Ariel
+      title: Female Chauvinist Pigs
+  - title: "The Prince"
+    author: Niccolo Machiavelli
+    remarks:
+      - The classic handbook for psychopaths
+    rating: -1
+    meeting_date: "Before 2010"
+    known_date: "2007"
+    sort_keys:
+      date: "0000"
+      author: Machiavelli, Niccolo
+      title: The Prince
+  - title: 'On Immigration and Refugees'
+    author: Michael Dummett
+    meeting_date: "Before 2010"
+    known_year: "2003"
+    remarks:
+      - Still remember Dummett's main argument, that from a thoroughgoing liberal perspective there are no good reason to stop people moving to the countries they want to. There might be  some negatives to immigration, but none outweigh the need to respect people's wishes to immigrate and the benefits this brings to the migrants and the host country.
+      - I was worried at the time that high immigration can override the wishes of significant numbers of people in the host country. They might be wrong in some sense to have the attitude they have, but how does a democracy deal with the fact that they have that attitude? Seems to me the whole Brexit fiasco has only sharpened this issue.
+    rating: 8
+    sort_keys:
+      date: "0000"
+      title: "On Immigration and Refugees"
+      author: "Dummett, Michael"
+  - title: 'Iraq: The Borrowed Kettle'
+    author: Slavoj Zizek
+    rating: -1
+    remarks:
+      - Really can't remember anything about this. Something about some old saying about a kettle and Iraq?
+    meeting_date: 'Before 2010'
+    known_date: '2005'
+    sort_keys:
+      author: Zizek, Slavoj
+      title: "Iraq: The Borrowed Kettle"
+      date: "0000"
   - title: 'The New Working Class: How to Win Hearts, Minds and Votes'
     author: Claire Ainsley
     remarks:
       - Well intentioned, well researched policy recommendations
       - Earnest and a bit dull
-    rating: 5
+    rating: 4
     rating_warning: false
     meeting_date: '2018'
     sort_keys:
@@ -37,16 +146,16 @@ books:
       date: '2020'
       author: Alberti
       title: 'The Biography of Loneliness: The History of an Emotion'
-  - title: The Idea of Communism
+  - title: The Idea of Communism (What was Communism?)
     author: Tariq Ali
     remarks:
-      - It was a long time ago
+      - I'm sure I read this book, but TBH I've forgotten the answer to the question.
     rating: -1
     rating_warning: false
     meeting_date: "2010"
     sort_keys:
       date: '2010'
-      author: Ali
+      author: Ali, Tariq
       title: The Idea of Communism
   - title: The Future Lasts a Long Time
     author: Louis Althusser
@@ -61,8 +170,7 @@ books:
   - title: Somewhere Towards The End
     author: Diana Athill
     remarks:
-      - I can't remember much actual detail, but this was a beautiful book, I should read
-        it again.
+      - I can't remember much  detail, but this was a beautiful book by a woman reflecting on her life and thinking about her death. I want to read it again.
     rating: 9
     rating_warning: false
     meeting_date: '2010'
@@ -115,7 +223,7 @@ books:
     author: Jean Baudrillard
     remarks:
       - Can't pretend much as stayed with me apart from a fairly positive buzz.
-    rating: 5
+    rating: -1
     rating_warning: false
     meeting_date: "Before 2010"
     sort_keys:
@@ -124,10 +232,12 @@ books:
       title: The Spirit of Teorrism
   - title: 'Risk Society: Towards a New Modernity'
     author: Ulrich Beck
-    remarks: []
+    remarks:
+      - My mind is blank on this one. It sounds like it should be important, but it left no recoverable trace.
     rating: -1
     rating_warning: false
     meeting_date: "Before 2010"
+    known_date: "2006"
     sort_keys:
       date: '0000'
       author: Beck
@@ -137,7 +247,7 @@ books:
     remarks:
       - Recent research on teenage development.
       - Unfortunately geriatic decay means I can't remember much.
-    rating: 5
+    rating: -1
     rating_warning: false
     meeting_date: '2019'
     sort_keys:
@@ -157,22 +267,23 @@ books:
       title: 'Austerity: The History of Dangerous Idea'
   - title: 'Fear of Knowledge: Against Relativism and Constructivism'
     author: Paul Boghossian
-    remarks: []
+    remarks:
+      - I think this was a good book, but TBH I can't remember much about it.
     rating: -1
     rating_warning: false
     meeting_date: "Before 2010"
+    known_date: "2006"
     sort_keys:
       date: '0000'
       author: Boghossian
       title: 'Fear of Knowledge: Against Relativism and Constructivism'
   - title: What Good are the Arts?
     author: Jonn Carey
-    remarks:
-      - Can't remember much about this except he seemed to be arguing unconvingly that
-        they aren't much good for anything.
-    rating: 4
+    remarks: []
+    rating: -1
     rating_warning: true
     meeting_date: "Before 2010"
+    known_date: "2005"
     sort_keys:
       date: '0000'
       author: Carey
@@ -195,16 +306,17 @@ books:
       - Looks good, wish I could remember something about it.
     rating: -1
     rating_warning: false
-    meeting_date: "Before 2010"
+    meeting_date: "2010"
     sort_keys:
-      date: '0000'
+      date: '2010'
       author: Cassidy
       title: 'How Markets Fail: The Logic of Economic Calamities'
   - title: 'A New Generation Draws the Line: Kosovo, East Timor and the Standards of
     the West'
     author: Noam Chomsky
     remarks:
-      - I'd like to like Chomsky, but this one didn't leave much lasting impression
+      - Always impressed by Chomsky's cool anger and command of detail.
+      - Having said that, and however much I'd like to like Chomsky, this book didn't leave much lasting impression.
     rating: -1
     rating_warning: false
     meeting_date: "Before 2010"
@@ -216,9 +328,9 @@ books:
   - title: 'What''s Left?: How the Left Lost its Way'
     author: Nick Cohen
     remarks:
-      - Readable attack on the left from a left perspecive.
-      - Against identity politics.
-      - Pro second gulf war on the ground that Saddam Hussein was a fascist.
+      - Very readable attack on the left from a leftish perspetcive.
+      - Against identity politics and he argues they distract from the traditional goals of left politics.
+      - Pro second gulf war on the grounds that Saddam Hussein was a fascist. Doesn't seem a great judgement in hindsight, and unfortunately support for that war pretty much did for the centre left in the UK, the position that Cohen wants to see thrive.
     rating: 6
     rating_warning: true
     meeting_date: "Before 2010"
@@ -232,8 +344,8 @@ books:
       - Men's brains are statistically more likley to be autistic, and on a wide spectrum
         men's brains tend to be further along it. Something like that.
       - Yeah can't remember all the details of his thesis, but interesting stuff about
-        the nature of certain types of autism, and possible differences between yer average
-        man and woman's neural biology.
+        the nature of certain types of autism, and possible differences between an average
+        man and average woman's neural biologies.
     rating: 7
     rating_warning: false
     meeting_date: "Before 2010"
@@ -241,6 +353,16 @@ books:
       date: '0000'
       author: Cohen
       title: 'The Essential Difference: Men, Women and the Extreme Male Brain'
+  - title: "States of Denial: Knowing About Attrocities and Suffering"
+    author: Stanley Cohen
+    remarks: "Gosh I can't remember anything at all about this."
+    rating: -1
+    meeting_date: "Before 2010"
+    known_date: "2006"
+    sort_keys:
+      author: Cohen, Stanley
+      title: "States of Denial: Knowing About Attrocities and Suffering"
+      date: "0000"
   - title: 'Yes We Have No: Adventures in Other England'
     author: Nik Cohn
     remarks: []
@@ -256,8 +378,8 @@ books:
     remarks:
       - Reading this was the first time I'd come across the argument that the white working
         class is being systemically discriminated against.
-      - Important given the Brexit and the general rise of nationalist populism, driven,
-        to a great extent by the demographic that Collins was describing.
+      - Important given the Brexit and the general rise of nationalist populism driven,
+        to a great extent, by the demographic that Collins was describing.
     rating: 8
     rating_warning: false
     meeting_date: "Before 2010"
@@ -269,8 +391,7 @@ books:
     author: Rosalind Coward
     remarks:
       - Left no impression!
-    rating: 5
-    rating_warning: true
+    rating: -1
     meeting_date: "Before 2010"
     sort_keys:
       date: '0000'
@@ -291,25 +412,29 @@ books:
       title: 'Life at the Bottom: The Worldview That Makes the Underclass'
   - title: The God Delusion
     author: Richard Dawkins
-    remarks: []
-    rating: -1
-    rating_warning: false
-    meeting_date: "2016"
+    remarks:
+      - I liked this and I even liked his argument from complexity that God cannot can't be an adequate explanation for creation.
+      - For the same reason they didn't like Sam Harris others didn't like this book. Not everyone cares very much whether religious belief is true or false, and they find Harris and Dawkins too blunt and literal.
+    rating: 6
+    rating_warning: true
+    meeting_date: "Before 2010"
+    known_date: "2006"
     sort_keys:
-      date: '2016'
+      date: '0000'
       author: Dawkins
       title: The God Delusion
   - title: Freedom Evolves
     author: Daniel Dennett
     remarks:
-      - Like much of the philosophy, half the book group couldn't see the point.
+      - Like most of the philosophy books we've read, half the book group couldn't see the point.
       - Elegantly written of course (it's Dennett), and I've given it 7 if only for the
         global coin-tossing competition image, which I love.
     rating: 7
     rating_warning: true
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
+    known_year: "2005"
     sort_keys:
-      date: ''
+      date: '0000'
       author: Dennett
       title: Freedom Evolves
   - title: 'Marx''s Revenge: The Resurgence of Capitalism and the Death of Statist Socialism'
@@ -326,24 +451,30 @@ books:
   - title: 'Guns Germs and Steel: Guns, Germs and Steel: A short history of everybody
     for the last 13,000 years'
     author: Jared Diamond
-    remarks: []
-    rating: -1
-    rating_warning: false
-    meeting_date: "Unknown"
+    remarks:
+      - I loved the ambition and scope of this.
+      - And his main thesis seemed very plausible, that Eurasia benefits from east-west zones of similar climate and environment, so when agricultural practices arose in Eurasia they spread faster and wider than on other continents.
+      - The book wasn't like by everyone. It is basically a deterministic explanation of societal development, so that felt wrong to some. Not me though.
+    rating: 8
+    rating_warning: true
+    meeting_date: "Before 2010"
+    known_date: "2006"
     sort_keys:
-      author: Diamond
+      date: "0000"
+      author: Diamond, Jared
       title: 'Guns Germs and Steel: Guns, Germs and Steel: A short history of everybody
       for the last 13,000 years'
   - title: 'All That is Solid: How the Great Housing Disaster Defines Our Times, and
     What We Can Do About It'
     author: Danny Dorling
     remarks:
-      - Important topic.
+      - Important topic but I didn't find very memorable or engaging.
       - Mixed reception in the group, some thought it lacked sufficient economic sophistication.
-    rating: 6
-    rating_warning: false
-    meeting_date: "Unknown"
+    rating: -1
+    rating_warning: true
+    meeting_date: "2014"
     sort_keys:
+      date: "2014"
       author: Dorling
       title: 'All That is Solid: How the Great Housing Disaster Defines Our Times, and
       What We Can Do About It'
@@ -351,9 +482,8 @@ books:
     author: Reni Eddo-Lodge
     remarks:
       - Descriptions of the problems of being black in the UK
-      - Well written and angry.
-      - Felt I wasn't the audience she was addressing, and if she doesn't want to talk
-        to me,  why should I care?
+      - Well-written and angry.
+      - Paradoxically this book felt as though it had a very specific audience of white (female) femisists. So I felt I wasn't the intended audience she wasn't talking to...
     rating: 6
     rating_warning: false
     meeting_date: '2018'
@@ -363,7 +493,8 @@ books:
       title: Why I'm Longer Talking to White People About Race
   - title: Civil Society
     author: Michael Edwards
-    remarks: []
+    remarks:
+      - Not a sausage remains in my mind.
     rating: -1
     rating_warning: false
     meeting_date: "Unknown"
@@ -386,7 +517,7 @@ books:
   - title: 'Connected: The Amazing Power of Social Networks and How They Shape Our Lives'
     author: Nicholas Christakis and James Fowler
     remarks:
-      - Looks like quite interesting ideas about the the importance of networks in human
+      - Looks like like some pretty interesting ideas about the the importance of networks in human
         relations, but not quite interesting enough for anything to stay with me.
     rating: -1
     rating_warning: false
@@ -398,8 +529,8 @@ books:
   - title: Man's Search for Meaning
     author: Victor E Frankl
     remarks:
-      - Harrowing and insightful account of experience camps.
-      - But a patchy as an explanation or intellectual foundation of existential psychotherapy.
+      - Harrowing and insightful account of the author's experience in the camps.
+      - But a patchy as an foundation or explanation of existential psychotherapy.
     rating: 5
     rating_warning: false
     meeting_date: '2019'
@@ -410,7 +541,7 @@ books:
   - title: Where have all the intellectuals gone?
     author: Frank Furedi
     remarks:
-      - Christ! Almost no memory of this except it seemed a fairly pointless provocation.
+      - Almost no memory of this except it seemed a fairly pointless provocation.
     rating: 4
     rating_warning: true
     meeting_date: "Unknown"
@@ -427,15 +558,30 @@ books:
     sort_keys:
       author: Gawande
       title: 'Being Mortal: Illness, Medicine and What Matters in the End'
+  - title: 'On Evil'
+    author: Adam Morton
+    remarks:
+      - No memory of this at all. Did we even do it?
+      - A shame - Adam Morton was a creative and original thinker, and an interesting and kind person.
+    meeting_date: "Before 2010"
+    known_date: "2005"
+    rating: -1
+    sort_keys:
+      author: Morten, Adam
+      date: "0000"
+      title: "On Evil"
   - title: 'The Third Way and its Critics: Sequel to "The Third Way"'
     author: Anthony Giddens
     remarks:
-      - All trace of this melted from my brain a long time ago.
-    rating: 5
+      - Perhaps of historical importance, as Giddens provided some of the thought behind Blair's politics.
+      - Didn't quite engage me at the time, and has left little trace.
+    rating: 4
     rating_warning: true
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
+    known_date: "2005"
     sort_keys:
-      author: Giddens
+      date: "0000"
+      author: Giddens, Anthony
       title: 'The Third Way and its Critics: Sequel to "The Third Way"'
   - title: 'Outliers: The Story of Success'
     author: Malcom Gladwell
@@ -477,7 +623,7 @@ books:
       - Extraordinary book, full of fascinating ideas of vital importance. Rich in anthropological
         stories and analyses, and a revisionist history of the world from the perspective
         of the concept of debt.
-      - Long shaggy and rambling, but brilliant.
+      - Long and shaggy, but brilliant.
     rating: 9
     rating_warning: true
     meeting_date: "Unknown"
@@ -487,11 +633,14 @@ books:
       title: 'Debt: The First 5000 Years'
   - title: Straw Dogs
     author: John Gray
-    remarks: []
+    remarks:
+      - "Can't remember much about this except an exhilarating pessimism."
     rating: -1
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
+    known_date: "2006"
     sort_keys:
+      date: "0000"
       author: Gray
       title: Straw Dogs
   - title: The Social Construction of What?
@@ -500,15 +649,16 @@ books:
       - Promised a lot but didn't feel like it delivered the analysis that is needed.
     rating: 5
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "2013"
     sort_keys:
+      date: "2013"
       author: Hacking
       title: The Social Construction of What?
   - title: 'The Righteous Mind: Why Good People are Divided by Politics and Religion'
     author: Jonathan Haidt
     remarks:
-      - Important and convincing account of different moral frameworks that people bring
-        to their lives. And why we should respect those differences.
+      - Important and convincing account of the different moral frameworks that people bring
+        to their lives and political opinions. And why we should respect those differences.
     rating: 9
     rating_warning: false
     meeting_date: '2017'
@@ -522,19 +672,25 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "2013"
     sort_keys:
-      author: Haq
+      date: "2013"
+      author: Haq, Rupa
       title: 'On the Edge: The Contested Cultures of English Suburbia: The Contested
       Cultures of English Suburbia After 7/7'
   - title: 'The End of Faith: Religion, Terror, and the Future of Reason'
     author: Sam Harris
-    remarks: []
-    rating: -1
-    rating_warning: false
-    meeting_date: "Unknown"
+    remarks:
+      - "I do approve of Harris's approach to ideas: argue strongly for what you think is true, but remain open to conversation and debate."
+      - "He's a hard atheist but with the interesting twist that he believes religious experience is real and should be cultivated, but through techniques such as meditation and not  through religious belief."
+      - "Not everyone in the group liked this book, I think they found his style insensitive, combative, and, over-literal. I think they are also not very interested in whether religious beliefs are true or false. Similar problems with Dawkins."
+    rating: 6
+    rating_warning: true
+    meeting_date: "Before 2010"
+    known_date: "2006"
     sort_keys:
-      author: Harris
+      date: "0000"
+      author: Harris, Sam
       title: 'The End of Faith: Religion, Terror, and the Future of Reason'
   - title: 'Food Wars: Food Wars: The Global Battle for Mouths, Minds and Markets'
     author: Tim Lang and Michael Heasman
@@ -562,7 +718,9 @@ books:
       title: Domininion
   - title: Atomised
     author: Michel Houellebecq
-    remarks: []
+    remarks:
+      - A rare novel for the book club.
+      - Dark and funny - but I can't remember all that much of it really.
     rating: -1
     rating_warning: false
     meeting_date: "Unknown"
@@ -588,36 +746,40 @@ books:
       - Smoothly written, well-informed, and persuasive.
     rating: 6
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "2016"
     sort_keys:
+      date: "2016"
       author: Jones
       title: 'The Establishment: And How They Get Away With It'
   - title: Utopian Dreams
     author: Tobias Jones
-    remarks: []
+    remarks:
+      - Sympathetic descriptions of several experiments in supportive, communal living.
+      - I remember liking this book but not much else.
     rating: -1
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
+    known_date: "2007"
     sort_keys:
+      date: "0000"
       author: Jones
       title: Utopian Dreams
   - title: 'This is London:  Life and Death in the World City'
     author: Ben Judah
     remarks:
-      - Down and out with Romanians in London,
-      - and insights into some of the darker sides of European immigration into London.
-      - Came out before the Brexit vote, and reveals some of changes in London that might
-        have encouraged it.
+      - Down and out with Romanians in London, with insights into some of the darker sides of European immigration into London.
+      - This book came out before the Brexit vote, and without taking sides, describes some of the tensions that contributed to it.
     rating: 7
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "2016"
     sort_keys:
+      date: "2016"
       author: Judah
       title: 'This is London:  Life and Death in the World City'
   - title: Thinking Fast and Slow
     author: Daniel Kahneman
     remarks:
-      - Big book on the differences between quick inutitive thought and slow cogitation.
+      - Big book on the differences between quick intuitive thought and slow cogitation.
     rating: 8
     rating_warning: false
     meeting_date: '2012'
@@ -653,12 +815,15 @@ books:
       and Race'
   - title: 'Happiness: Lessons from a New Science'
     author: Richard Layard
-    remarks: []
-    rating: -1
+    remarks:
+      - This book changed my mind about the usefulness of studying and measuring happiness.
+      - The clinching argument for me was that indedent ways of measuring it for a person tend to give the same value, which suggests that there is an objective metric here.
+    rating: 8
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
+    known_date: "2005"
     sort_keys:
-      author: Layard
+      author: Layard, Richard
       title: 'Happiness: Lessons from a New Science'
   - title: If This is a Man
     author: Primo Levi
@@ -673,7 +838,7 @@ books:
     author: Bernard Lewis
     remarks:
       - Only the vaguest memory of this - I think it seemed a convincing historial account.
-    rating: 6
+    rating: -1
     rating_warning: true
     meeting_date: "Unknown"
     sort_keys:
@@ -741,10 +906,11 @@ books:
     remarks:
       - How come I can't remember anything about this apart from the fact it was well
         written and I enjoyed it a time?
-    rating: 6
+    rating: -1
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "2014"
     sort_keys:
+      date: "2014"
       author: Miliband
       title: The State in Capitalist Society
   - title: 'Out of the Wreckage: A new politics for an Age of Crisis'
@@ -785,18 +951,22 @@ books:
       author: Murray
       title: 'The Madness of Crowds: Gender, Race and Identity'
   - title: 'A Quesiton of Trust: The Reith Lectures 2002'
-    author: Onara O'Neill
-    remarks: []
-    rating: -1
-    rating_warning: false
-    meeting_date: "Unknown"
+    author: Onora O'Neill
+    remarks:
+      - I remember enjoying this, and the argument that targets for the public sector is corrosive because it replaces trust with quantitative targets that can be gamed and are often not responsive to real need.
+      - Given a warning because it was  a long time ago.
+    rating: 7
+    rating_warning: true
+    meeting_date: "Before 2010"
+    known_date: "2006"
     sort_keys:
-      author: O'Neill
+      date: '0000'
+      author: O'Neill, Onora
       title: 'A Quesiton of Trust: The Reith Lectures 2002'
   - title: 'The Precipice: Existential Risk and the Future of Humanity'
     author: Toby Ord
     remarks:
-      - Deep well written sustained analysis, but my interest was limited because of restriction
+      - Deep, well-written, sustained analysis, but my interest was limited because of restriction
         to only existential threats which seems to omit the ones that should be most pressing.
     rating: 6
     rating_warning: false
@@ -823,8 +993,9 @@ books:
       - Nearly broke the book club!
     rating: 7
     rating_warning: true
-    meeting_date: "Unknown"
+    meeting_date: "2015"
     sort_keys:
+      date: "2015"
       author: Piketty
       title: Capital in the Twenty-First Century
   - title: 'The Blank Slate: The Modern Denial of Human Nature'
@@ -835,8 +1006,9 @@ books:
         particulary the amazing chapter on identical twins.
     rating: 7
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: "0000"
       author: Pinker
       title: 'The Blank Slate: The Modern Denial of Human Nature'
   - title: 'Bowling Alone: The Collapse and Revival of American Community'
@@ -846,17 +1018,20 @@ books:
         collapse of social capital in the US.
     rating: 9
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: "0000"
       author: Putnam
       title: 'Bowling Alone: The Collapse and Revival of American Community'
   - title: Contingency, Irony, and Solidarity
     author: Richard Rorty
-    remarks: []
+    remarks:
+      - Nope, no trace.
     rating: -1
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "2011"
     sort_keys:
+      date: "2011"
       author: Rorty
       title: Contingency, Irony, and Solidarity
   - title: Helgoland
@@ -878,17 +1053,18 @@ books:
     author: Malise Ruthven
     remarks:
       - Not much trace of this in my mind, other than a vaguely positive blur.
-    rating: 6
+    rating: -1
     rating_warning: true
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: "0000"
       author: Ruthven
       title: 'Fundamentalism: The Search For Meaning'
   - title: 'Superior: The return of race science'
     author: Angela Saini
     remarks:
       - Good read, well written
-      - 'Unfortunately the only bit I can remember is the argument from a prominent geneticist
+      - 'Unfortunately the only bit I can remember well is the argument from a prominent geneticist
     that perhaps there is something in race after all: many ways of thinking about
     it have been thoroughly debunked, but not all.'
       - Also I think she missed the argument that IQ tests really don't measure anything
@@ -962,8 +1138,10 @@ books:
       - Simple but convincing, not clear what the solution is though.
     rating: 7
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
+    known_date: "2005"
     sort_keys:
+      date: "0000"
       author: Schwartz
       title: 'The Paradox of Choice: Why More is Less'
   - title: England An Elegy
@@ -973,8 +1151,9 @@ books:
       - Cogent, honest, authorative, beatifully written, and slightly bonkers.
     rating: 8
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: "0000"
       author: Scruton
       title: England An Elegy
   - title: Development as Freedom
@@ -982,8 +1161,9 @@ books:
     remarks: []
     rating: 7
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: "0000"
       author: Sen
       title: Development as Freedom
   - title: 'The Corrosion of Character: The Personal Consequences of Work in the New
@@ -992,18 +1172,22 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "2011"
     sort_keys:
+      date: "2011"
       author: Sennett
       title: 'The Corrosion of Character: The Personal Consequences of Work in the New
       Capitalism'
   - title: We Need to Talk about Kevin
     author: Lionel Shriver
-    remarks: []
-    rating: -1
+    remarks:
+      - One of the few novels we've read in the group.
+      - A gripping thriller and an exploration of maternal love and evil.
+    rating: 8
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: "0000"
       author: Shriver
       title: We Need to Talk about Kevin
   - title: 'The Life you can Save: How To Do Your Part To End World Poverty'
@@ -1034,8 +1218,9 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "2012"
     sort_keys:
+      date: "2012"
       author: Skidelsky
       title: 'How Much is Enough?: The Love of Money, and the Case for the Good Life'
   - title: 'Other Minds: The Octopus, The Sea, and the Deep Origins of Consciousness'
@@ -1082,7 +1267,7 @@ books:
   - title: 'The Secret Barrister: Stories of the Law and How It''s Broken'
     author: The Secret Barrister
     remarks:
-      - Eye-opening descriptions of the shitshow that is the criminal law in the UK.
+      - Eye-opening descriptions of the shitshow that is the criminal legal system in the UK.
     rating: 8
     rating_warning: false
     meeting_date: '2018'
@@ -1093,8 +1278,8 @@ books:
   - title: 'Alone Together: Why We Expect More from Technology and Less from Each Other'
     author: Sherry Turkle
     remarks:
-      - Memorable well-made arguments for why technology might be damaging our relationships.
-    rating: 8
+      - Well-made arguments for why technology might be damaging our relationships.
+    rating: 7
     rating_warning: false
     meeting_date: '2013'
     sort_keys:
@@ -1129,7 +1314,7 @@ books:
       date: '2018'
       author: Varoufakis
       title: 'Adults in the Room: My Battle with Europe''s Deep Establishment'
-  - title: 'War of Return, The: How Western Indulgence of the Palestinian Dream Has
+  - title: 'The War of Return: How Western Indulgence of the Palestinian Dream Has
     Obstructed the Path to Peace'
     author: Adi Schwartz and Einat Wilf
     remarks:
@@ -1142,7 +1327,7 @@ books:
       author: Wilf
       title: 'War of Return, The: How Western Indulgence of the Palestinian Dream Has
       Obstructed the Path to Peace'
-  - title: 'The Spirit Level: : Why Equality is Better for Everyone'
+  - title: 'The Spirit Level: Why Equality is Better for Everyone'
     author: Kate Pickett and Richard Wilkinson
     remarks:
       - Convincing arguments for how damaning inequality is to societies.
@@ -1150,25 +1335,31 @@ books:
         to roost.
     rating: 9
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
+    known_date: "2009"
     sort_keys:
-      author: Wilkinson
-      title: 'The Spirit Level: : Why Equality is Better for Everyone'
+      date: "0000"
+      author: Wilkinson, Richard and Picket, Kate
+      title: 'The Spirit Level: Why Equality is Better for Everyone'
   - title: Why Globalisation Works
     author: Martin Wolf
-    remarks: []
-    rating: -1
-    rating_warning: false
-    meeting_date: "Unknown"
+    remarks:
+      - Read this a long time ago, but remember that it was elegantly and forcefully written.
+      - Perhaps it was the first time I'd come across the argument for trade based on 'Comparative Advantage' and so it left a strong, positive impression on me.
+    rating: 7
+    rating_warning: true
+    meeting_date: "Before 2010"
+    known_date: "2005"
     sort_keys:
-      author: Wolf
+      date: "0000"
+      author: Wolf, Martin
       title: Why Globalisation Works
   - title: Love's Executioner and other tales of Psychotherapy
     author: Irwin Yalom
     remarks:
       - Beautifully written and engaging
       - Everyone in book club liked it.
-    rating: 8
+    rating: 9
     rating_warning: false
     meeting_date: '2019'
     sort_keys:
@@ -1179,10 +1370,11 @@ books:
     author: Theodore Zeldin
     remarks:
       - Pretentious twaddle about insufferable people.
-    rating: 2
+    rating: 1
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: "0000"
       author: Zeldin
       title: An Intimate History of Humanity
   - title: 'Violence: Six sideways reflections'

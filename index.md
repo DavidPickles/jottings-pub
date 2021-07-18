@@ -1,1 +1,1 @@
-[Book Club Record](book-club-record.md)
+[Book Club Book List](booklist.html)
