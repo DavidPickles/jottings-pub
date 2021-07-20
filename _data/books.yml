@@ -943,17 +943,17 @@ books:
       author: Miliband
       title: The State in Capitalist Society
   - title: 'Out of the Wreckage: A new politics for an Age of Crisis'
-    author: George Mombiot
+    author: George Monbiot
     remarks:
       - I enjoyed it at the time, and it seemed important. But apart from that I can remember
         nothing about it at all, sadly. And things seems to have become significantly
         worse since it was written.
-    rating: 6
+    rating: -1
     rating_warning: false
     meeting_date: '2017'
     sort_keys:
       date: '2017'
-      author: Mombiot
+      author: Monbiot
       title: 'Out of the Wreckage: A new politics for an Age of Crisis'
   - title: What is Populism
     author: Jan Werner Muller
