@@ -39,7 +39,7 @@ books:
   - title: "Stuart: A Life Backwards"
     author: Alexander Masters
     remarks:
-      - Wonderful book about the life of a homeless damaged man, befriended by the author.
+      - Wonderful book about the life of a homeless damaged man befriended by the author.
     rating: 9
     meeting_date: "Before 2010"
     sort_keys:
@@ -106,7 +106,7 @@ books:
     meeting_date: "Before 2010"
     known_year: "2003"
     remarks:
-      - Still remember Dummett's main argument, that from a thoroughgoing liberal perspective there are no good reason to stop people moving to the countries they want to. There might be  some negatives to immigration, but none outweigh the need to respect people's wishes to immigrate and the benefits this brings to the migrants and the host country.
+      - Still remember Dummett's main argument that from a thoroughgoing liberal perspective there are no good reason to stop people moving to the countries they want to. There might be  some negatives to immigration, but none outweigh the need to respect people's wishes to immigrate and the benefits this brings to the migrants and the host country.
       - I was worried at the time that high immigration can override the wishes of significant numbers of people in the host country. They might be wrong in some sense to have the attitude they have, but how does a democracy deal with the fact that they have that attitude? Seems to me the whole Brexit fiasco has only sharpened this issue.
     rating: 8
     sort_keys:
@@ -117,7 +117,7 @@ books:
     author: Slavoj Zizek
     rating: -1
     remarks:
-      - Really can't remember anything about this. Something about some old saying about a kettle and Iraq?
+      - Really can't remember anything about this. Something about a kettle, and Iraq?
     meeting_date: 'Before 2010'
     known_date: '2005'
     sort_keys:
@@ -342,7 +342,7 @@ books:
     author: Nick Cohen
     remarks:
       - Very readable attack on the left from a leftish perspetcive.
-      - Against identity politics and he argues they distract from the traditional goals of left politics.
+      - Against identity politics and argues it distracts from the traditional goals of the left.
       - Pro second gulf war on the grounds that Saddam Hussein was a fascist. Doesn't seem a great judgement in hindsight, and unfortunately support for that war pretty much did for the centre left in the UK, the position that Cohen wants to see thrive.
     rating: 6
     rating_warning: true
@@ -354,7 +354,7 @@ books:
   - title: 'The Essential Difference: Men, Women and the Extreme Male Brain'
     author: Simon Baron Cohen
     remarks:
-      - Men's brains are statistically more likley to be autistic, and on a wide spectrum
+      - Men's brains are statistically more likley to be autistic, and on a wide spectrum,
         men's brains tend to be further along it. Something like that.
       - Yeah can't remember all the details of his thesis, but interesting stuff about
         the nature of certain types of autism, and possible differences between an average
@@ -392,7 +392,7 @@ books:
       - Reading this was the first time I'd come across the argument that the white working
         class is being systemically discriminated against.
       - Important given the Brexit and the general rise of nationalist populism driven,
-        to a great extent, by the demographic that Collins was describing.
+        to some extent, by the demographic that Collins was describing.
     rating: 8
     rating_warning: false
     meeting_date: "Before 2010"
@@ -427,7 +427,7 @@ books:
     author: Richard Dawkins
     remarks:
       - I liked this and I even liked his argument from complexity that God cannot can't be an adequate explanation for creation.
-      - For the same reason they didn't like Sam Harris others didn't like this book. Not everyone cares very much whether religious belief is true or false, and they find Harris and Dawkins too blunt and literal.
+      - For the same reason they didn't like Sam Harris, others didn't like this book. Not everyone cares very much whether religious belief is true or false, and they find Harris and Dawkins too blunt and literal.
     rating: 6
     rating_warning: true
     meeting_date: "Before 2010"
@@ -484,7 +484,7 @@ books:
       - Important topic but I didn't find very memorable or engaging.
       - Mixed reception in the group, some thought it lacked sufficient economic sophistication.
     rating: -1
-    rating_warning: true
+    rating_warning: false
     meeting_date: "2014"
     sort_keys:
       date: "2014"
@@ -557,8 +557,8 @@ books:
     author: Frank Furedi
     remarks:
       - Almost no memory of this except it seemed a fairly pointless provocation.
-    rating: 4
-    rating_warning: true
+    rating: -1
+    rating_warning: false
     meeting_date: "Before 2010"
     sort_keys:
       date: "0000"
@@ -591,7 +591,7 @@ books:
     author: Anthony Giddens
     remarks:
       - Perhaps of historical importance, as Giddens provided some of the thought behind Blair's politics.
-      - Didn't quite engage me at the time, and has left little trace.
+      - Didn't quite engage me at the time.
     rating: 4
     rating_warning: true
     meeting_date: "Before 2010"
@@ -701,7 +701,7 @@ books:
     remarks:
       - "I do approve of Harris's approach to ideas: argue strongly for what you think is true, but remain open to conversation and debate."
       - "He's a hard atheist but with the interesting twist that he believes religious experience is real and should be cultivated, but through techniques such as meditation and not  through religious belief."
-      - "Not everyone in the group liked this book, I think they found his style insensitive, combative, and, over-literal. I think they are also not very interested in whether religious beliefs are true or false. Similar problems with Dawkins."
+      - "Not everyone in the group liked this book, I think they found his style insensitive, combative, and, over-literal. I think they are also not very interested in the question of whether religious beliefs are true or false, or in persuading people who hold them to think otherwise. Similar problems with Dawkins."
     rating: 6
     rating_warning: true
     meeting_date: "Before 2010"
@@ -851,7 +851,7 @@ books:
     remarks:
       - This is a great book, harrowing, enlightening, and  humane.
       - It details Primo Levi's experience of the camps.
-      - It is written in simple, clear, objective style. What he describes is horrible but there is something inspirational in the decent, humane voice that Levi achieves.
+      - It is written in a simple, clear, objective style. What he describes is horrible but there is something inspirational in the decent, humane voice that Levi achieves.
     rating: 9
     rating_warning: false
     meeting_date: "2011"
@@ -864,7 +864,7 @@ books:
     remarks:
       - Only the vaguest memory of this - I think it seemed a convincing historial account.
     rating: -1
-    rating_warning: true
+    rating_warning: false
     meeting_date: "Before 2010"
     sort_keys:
       date: "0000"
@@ -887,7 +887,7 @@ books:
     remarks:
       - Enraging and prophetic.
       - Written well before the current multiple populist shitshows, but describes how
-        media stopped challenging coroporate and political PR machines.
+        the media stopped challenging corporate and political PR machines.
     rating: 8
     rating_warning: false
     meeting_date: "Before 2010"
@@ -982,7 +982,8 @@ books:
   - title: 'A Quesiton of Trust: The Reith Lectures 2002'
     author: Onora O'Neill
     remarks:
-      - I remember enjoying this, and the argument that targets for the public sector is corrosive because it replaces trust with quantitative targets that can be gamed and are often not responsive to real need.
+      - I remember enjoying this.
+      - The main argument is that targets for the public sector is corrosive because it replaces trust with quantitative targets that can be gamed and are often not responsive to real need.
       - Given a warning because it was  a long time ago.
     rating: 7
     rating_warning: true
@@ -1032,7 +1033,7 @@ books:
     remarks:
       - A big book covering a lot of ground.
       - Although it's a long time ago we read it, I still remember some of the arguments,
-        particulary the amazing chapter on identical twins.
+        particulary the amazing final chapter on identical twins.
     rating: 7
     rating_warning: false
     meeting_date: "Before 2010"
@@ -1045,6 +1046,7 @@ books:
     remarks:
       - Big, convincingly argued,empirically grounded sociological analysis of the the
         collapse of social capital in the US.
+      - His main thesis is that it was TV what done it. We read this so long ago it was before the ubiquity of the web. Be interesting to find out what he thinks of that.
     rating: 9
     rating_warning: false
     meeting_date: "Before 2010"
@@ -1083,7 +1085,7 @@ books:
     remarks:
       - Not much trace of this in my mind, other than a vaguely positive blur.
     rating: -1
-    rating_warning: true
+    rating_warning: false
     meeting_date: "Before 2010"
     sort_keys:
       date: "0000"
@@ -1187,7 +1189,9 @@ books:
       title: England An Elegy
   - title: Development as Freedom
     author: Amartya Sen
-    remarks: []
+    remarks:
+      - Mainly arguments for measuring progress in a country by metrics other than GDP.
+      - Also an interesting argument that famines are not caused by lack of food production in a country, but failure to distribute it.
     rating: 7
     rating_warning: false
     meeting_date: "Before 2010"
@@ -1211,7 +1215,7 @@ books:
     author: Lionel Shriver
     remarks:
       - One of the few novels we've read in the group.
-      - A gripping thriller and an exploration of maternal love and evil.
+      - A gripping thriller and an exploration of evil and maternal love.
     rating: 8
     rating_warning: false
     meeting_date: "Before 2010"
