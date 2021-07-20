@@ -12,7 +12,7 @@ intro: |+
 
   I've certainly missed some books, probably even some quite recent ones. So help with that would be appreciated.
 
-  I've also provided ratings and comments. I've given a warning if a rating is controversial, but such is the nature of book club, I expect that which ratings are controversial and which are not will itself be hotly disputed.
+  I've also provided ratings and comments. The ratings are my opinion only and normally aren't intended to represent a group view, though I've given a warning if a rating is controversial. But such is the nature of book club, I expect that which ratings are controversial and which are not will itself be hotly disputed.
 
   It is interesting which books I remembered and which I didn't. Some from even the earliest years are still quite vivid. Others, even some from not long ago, are blanks. I've tried to be straight about what I can remember and what I can't, but memory, mine anyway, sometimes plays strange games.
 books:
@@ -41,8 +41,9 @@ books:
     remarks:
       - Wonderful book about the life of a homeless damaged man, befriended by the author.
     rating: 9
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: "0000"
       title: "Stuart: A Life Backwards"
       author: "Masters, Alexander"
   - title: "The Bankers' New Clothes: What's Wrong wth Banking and What to Do about it"
@@ -497,8 +498,9 @@ books:
       - Not a sausage remains in my mind.
     rating: -1
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: "0000"
       author: Edwards
       title: Civil Society
   - title: 'Delusions of Gender: The Real Science Behind Sex Differences'
@@ -521,9 +523,10 @@ books:
         relations, but not quite interesting enough for anything to stay with me.
     rating: -1
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "2010"
     sort_keys:
-      author: Fowler
+      date: "2010"
+      author: Chritakis, N and Fowler, J
       title: 'Connected: The Amazing Power of Social Networks and How They Shape Our
       Lives'
   - title: Man's Search for Meaning
@@ -544,8 +547,9 @@ books:
       - Almost no memory of this except it seemed a fairly pointless provocation.
     rating: 4
     rating_warning: true
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: "0000"
       author: Furedi
       title: Where have all the intellectuals gone?
   - title: 'Being Mortal: Illness, Medicine and What Matters in the End'
@@ -554,8 +558,9 @@ books:
       - Humane and graceful description of how to approach death.
     rating: 9
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "2015"
     sort_keys:
+      date: "2015"
       author: Gawande
       title: 'Being Mortal: Illness, Medicine and What Matters in the End'
   - title: 'On Evil'
@@ -588,8 +593,9 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: "0000"
       author: Gladwell
       title: 'Outliers: The Story of Success'
   - title: 'Bad Pharma: How Medicine is Broken, And How We Can Fix It'
@@ -626,9 +632,9 @@ books:
       - Long and shaggy, but brilliant.
     rating: 9
     rating_warning: true
-    meeting_date: "Unknown"
+    meeting_date: "2016"
     sort_keys:
-      date: ''
+      date: '2016'
       author: Graeber
       title: 'Debt: The First 5000 Years'
   - title: Straw Dogs
@@ -698,9 +704,10 @@ books:
       - Can only remember it wasn't as good as I'd hoped.
     rating: -1
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "2010"
     sort_keys:
-      author: Heasman
+      date: "2010"
+      author: Lang, T and Heasman, M
       title: 'Food Wars: Food Wars: The Global Battle for Mouths, Minds and Markets'
   - title: Domininion
     author: Tom Holland
@@ -723,8 +730,9 @@ books:
       - Dark and funny - but I can't remember all that much of it really.
     rating: -1
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: "0000"
       author: Houellebecq
       title: Atomised
   - title: 'Homo Deus: A Brief History of Tomorrow'
@@ -828,11 +836,15 @@ books:
       title: 'Happiness: Lessons from a New Science'
   - title: If This is a Man
     author: Primo Levi
-    remarks: []
-    rating: -1
+    remarks:
+      - This is a great book, harrowing, enlightening, and  humane.
+      - It details Primo Levi's experience of the camps.
+      - It is written in simple, clear, objective style. What he describes is horrible but there is something inspirational in the decent, humane voice that Levi achieves.
+    rating: 9
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "2011"
     sort_keys:
+      date: "2011"
       author: Levi
       title: If This is a Man
   - title: 'The Crisis of Islam: Holy War and Unholy Terror'
@@ -841,8 +853,9 @@ books:
       - Only the vaguest memory of this - I think it seemed a convincing historial account.
     rating: -1
     rating_warning: true
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: "0000"
       author: Lewis
       title: 'The Crisis of Islam: Holy War and Unholy Terror'
   - title: 'Boomerang: The Meltdown Tour'
@@ -865,8 +878,9 @@ books:
         media stopped challenging coroporate and political PR machines.
     rating: 8
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: "0000"
       author: Lloyd
       title: What the Media are doing to our Politics
   - title: 'Liberals & Cannibals: The Implications of Diversity'
@@ -874,8 +888,9 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: "0000"
       author: Lukes
       title: 'Liberals & Cannibals: The Implications of Diversity'
   - title: 'Post Capitalism: A Guide to Our Future'
@@ -885,8 +900,9 @@ books:
       - Well explained leftist ideas in economics.
     rating: 7
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "2015"
     sort_keys:
+      date: "2015"
       author: Mason
       title: 'Post Capitalism: A Guide to Our Future'
   - title: 'The Triumph of Doubt: Dark Money and the Science of Deception'
@@ -1383,8 +1399,9 @@ books:
     remarks: []
     rating: -1
     rating_warning: false
-    meeting_date: "Unknown"
+    meeting_date: "Before 2010"
     sort_keys:
+      date: "0000"
       author: Zizek
       title: 'Violence: Six sideways reflections'
 ...
