@@ -179,20 +179,32 @@ books:
       date: '2010'
       author: Athill
       title: Somewhere Towards The End
-  - title: Papers and artices on trans issues
+  - title: "Race and IQ: Papers and articles"
     author: Various Authors
     remarks:
-      - Included Kathleen Stock (concerned by some aspects of trans activism)
-      - Provocative and interesting.
-      - We should do more sets of papers and articles, but it's a bit onerous having to
+      - Mainly arguing for links between race and IQ, so controversial and potentially dangerous material.
+      - "The politics and potential negative social impacts of this kind of work, and concerns about the intentions of its authors, tend to overwhelm questions about its scientific soundness or logical implications (for instance: do really asians really have higher IQs than whites on average? Does that mean they are intrinsically smarter in some sense? Does this mean we should treat whites differently from asians?)"
+    rating: 7
+    rating_warning: false
+    meeting_date: 'Before 2010'
+    sort_keys:
+      date: '0000'
+      author: Various Authors
+      title: "Race and IQ: Papers and articles"
+
+  - title: "Trans Issues: Papers and Articles."
+    author: Various Authors
+    remarks:
+      - Covered wide range of views, provocative and interesting.
+      - It's good to do sets of papers and articles from time to time, but it's a bit onerous having to
         put them together.
-    rating: 8
+    rating: 7
     rating_warning: false
     meeting_date: '2017'
     sort_keys:
       date: '2017'
-      author: Authors
-      title: Papers and artices on trans issues
+      author: Various Authors
+      title: "Trans issues: Papers and articles."
   - title: The Dark Net
     author: Jamie Bartlett
     remarks:
@@ -533,7 +545,7 @@ books:
     author: Victor E Frankl
     remarks:
       - Harrowing and insightful account of the author's experience in the camps.
-      - But patchy and unconvincing as an foundation or explanation of existential psychotherapy.
+      - But patchy and unconvincing as a foundation or explanation of existential psychotherapy.
     rating: 5
     rating_warning: false
     meeting_date: '2019'
@@ -1096,7 +1108,7 @@ books:
   - title: 'The Tyranny of Merit: Why the Promise of Moving Up Is Pulling America Apart'
     author: Michael Sandel
     remarks:
-      - Good read, arguably an important diagnosis of the current US malaise.
+      - Good read, arguably an important diagnosis of a worsening US malaise.
       - Caused debate, a lot around how to interpret the main arguments, so although his
         style seems very clear, evidently the substance isn't as clear as you might think.
     rating: 7
@@ -1335,7 +1347,7 @@ books:
     Obstructed the Path to Peace'
     author: Adi Schwartz and Einat Wilf
     remarks:
-      - Cogent argument, well written, historically intereting but one sided.
+      - Cogent argument, well written, historically interesting but one-sided.
     rating: 6
     rating_warning: false
     meeting_date: '2020'
