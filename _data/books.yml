@@ -10,6 +10,19 @@ intro: |+
 
   It is interesting which books I remembered and which I didn't. Some from even the earliest years are still quite vivid. Others, even some from not long ago, are blanks. I've tried to be straight about what I can remember and what I can't, but memory, mine anyway, sometimes plays strange games.
 books:
+  - title: "Humankind: A Hopeful History"
+    author: "Rutger Bregman"
+    remarks:
+      - Arguments against common reasons for thinking humans are basically rotten, including the now well-known flaws in the Stanford Prison Experiments and similar bad science, and a description of a real-life Lord of Flies which ended nothing like the novel.
+      - Also has positive arguments for our basic decency and kindness. Some more persuasive than others.
+      - I probably liked this more than anyone in the group as I'm prone to cheap cynicism based on half remembered stories. This book is a great antidote to that.
+    rating: 7
+    rating_warning: true
+    meeting_date: "2021"
+    sort_keys:
+      author: Bregman, Rutger
+      title: Humankind
+      date: "2021"
   - title: "ISIS: Inside the Army of Terror"
     author: Michael Weiss and Hassan Hassan
     remarks:
@@ -288,7 +301,6 @@ books:
     author: Jonn Carey
     remarks: []
     rating: -1
-    rating_warning: true
     meeting_date: "Before 2010"
     known_date: "2005"
     sort_keys:
@@ -569,18 +581,14 @@ books:
       date: "2015"
       author: Gawande
       title: 'Being Mortal: Illness, Medicine and What Matters in the End'
-  - title: 'On Evil'
-    author: Adam Morton
-    remarks:
-      - No memory of this at all. Did we even do it?
-      - A shame - Adam Morton was a creative and original thinker, and an interesting and kind person.
+  - title: 'Cries Unheard: the Story of Mary Bell'
+    author: Gitta Sereny
     meeting_date: "Before 2010"
-    known_date: "2005"
     rating: -1
     sort_keys:
-      author: Morten, Adam
+      author: Sereny, Gitta
       date: "0000"
-      title: "On Evil"
+      title: "Cries Unheard"
   - title: 'The Third Way and its Critics: Sequel to "The Third Way"'
     author: Anthony Giddens
     remarks:
@@ -1394,9 +1402,11 @@ books:
   - title: An Intimate History of Humanity
     author: Theodore Zeldin
     remarks:
-      - Pretentious twaddle about insufferable people.
-    rating: 1
-    rating_warning: false
+      - I didn't like this, and my original comment was "Pretentious twaddle about insufferable people".
+      - "That was a bit harsh, though fun to write. Some in the group liked it much more than me. And the premise does seem ambitious and interesting: contemporary emotional issues given a world-historical context."
+      - "But my abiding memory of this book is a deep irritation and disquiet; I'm sure my therapist would have something to say about that."
+    rating: 2
+    rating_warning: true
     meeting_date: "Before 2010"
     sort_keys:
       date: "0000"
