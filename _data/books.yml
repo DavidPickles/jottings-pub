@@ -20,7 +20,7 @@ books:
     rating_warning: true
     meeting_date: "2021"
     sort_keys:
-      author: Bregman, Rutger
+      author: "Bregman, Rutger"
       title: "Humankind: A Hopeful History"
       date: "2021"
   - title: "ISIS: Inside the Army of Terror"
