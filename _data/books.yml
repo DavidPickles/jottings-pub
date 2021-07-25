@@ -13,14 +13,14 @@ books:
   - title: "Humankind: A Hopeful History"
     author: "Rutger Bregman"
     remarks:
-      - Arguments against common reasons for thinking humans are basically rotten, including the now well-known flaws in the Stanford Prison Experiments and similar bad science, and a description of a real-life Lord of Flies which ended nothing like the novel.
+      - Successfully refutes familiar arguments for thinking humans are basically rotten. For instance he lays out the now well-known flaws in the Stanford Prison Experiments and similar bad science, and relates a real-life Lord of Flies which turned-out much happier than the novel.
       - Also has positive arguments for our basic decency and kindness. Some more persuasive than others.
       - I probably liked this more than anyone in the group as I'm prone to cheap cynicism based on half remembered stories. This book is a great antidote to that.
     rating: 7
     rating_warning: true
     meeting_date: "2021"
     sort_keys:
-      author: "Bregman, Rutger"
+      author: Bregman, Rutger
       title: "Humankind: A Hopeful History"
       date: "2021"
   - title: "ISIS: Inside the Army of Terror"
