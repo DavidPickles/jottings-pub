@@ -10,6 +10,21 @@ intro: |+
 
   It is interesting which books I remembered and which I didn't. Some from even the earliest years are still quite vivid. Others, even some from not long ago, are blanks. I've tried to be straight about what I can remember and what I can't, but memory, mine anyway, sometimes plays strange games.
 books:
+  - title: "Twilight of Democracy: The Failure of Politics and the Parting of Friends"
+    author: "Anne Applebaum"
+    remarks:
+      - Political analysis and recent history animated by a personal story of the rifts between Applebaum and her right-wing friends as they move away from liberalism to populist authoritarianism.
+      - "Applebaum is a wonderful writer: vivid, clear, and compelling."
+      - "For such a short book (under two hundred pages) it covers so much: recent history with an insider's insight from Poland, Hungary, Britain, Spain, and the US; her estrangement from former allies; and good ideas about why what she describes is happening."
+      - "As a historian and journalist she is particularly aware of the rise of 'les clercs', the educated elite enabling authoritarianism and irrationality."
+      - "I found this book fascinating in the light of others we've read looking at populist authoritarianism: Muller, Snyder, and Vance for example. I also kept thinking of Bregman's distinction between empathy (kindness and fellow-feeling restricted to a group) and compassion (more impersonal but inclusive) in explaining why this political stance has gained so much traction. Populism exploits group empathy to gain and maintain power."
+    rating: 9
+    rating_warning: false
+    meeting_date: "2021"
+    sort_keys:
+      author: Applebaum, Anne
+      title: "Twilight of Democracy: The Failure of Politics and the Parting of Friends"
+      date: "2021"
   - title: "Humankind: A Hopeful History"
     author: "Rutger Bregman"
     remarks:
@@ -503,7 +518,7 @@ books:
     remarks:
       - Descriptions of the problems of being black in the UK
       - Well-written and angry.
-      - Paradoxically this book felt as though it had a very specific audience of white (female) feminists. So I felt I wasn't the audience she wasn't talking to...
+      - Paradoxically this book felt as though it had a very specific audience of white feminist women. So I felt I wasn't the audience she wasn't talking to...
     rating: 6
     rating_warning: false
     meeting_date: '2018'
@@ -959,7 +974,7 @@ books:
       author: Monbiot
       title: 'Out of the Wreckage: A new politics for an Age of Crisis'
   - title: What is Populism
-    author: Jan Werner Muller
+    author: Jan-Werner Muller
     remarks:
       - I thought it was clear and well argued, nicely explaining a complex thesis and
         a lot of ancillary ideas about democracy.
@@ -1071,11 +1086,11 @@ books:
   - title: Helgoland
     author: Carlo Rovelli
     remarks:
-      - 'History of quantum mechanics, a new interpreation, and the mind/brain problem
+      - 'History of quantum mechanics, a new interpretation, and the mind/body problem
     solved: all in 200 pages.'
       - Wildly overambitious but elegantly written.
-      - The explanations were well written but maybe not as clear as they could have been,
-        for some people that made the book infuriating.
+      - The explanations are superficially easy to read but not as clear as they could have been,
+        and for some people that made the book infuriating.
     rating: 7
     rating_warning: true
     meeting_date: '2021'
@@ -1328,6 +1343,7 @@ books:
       - I liked it very much - vividly written, authentic; seemed to me an insight into
         a way of life I knew little about.
       - Very divisive book - others in book club thought it sexist and dishonest.
+      - Vance is today running for office, self-servingly recanting previous anti-Trump remarks, and adopting populist authoritarianism. I think that makes this book even more important because it  provides insight into the mindset behind this dangerous and potent political stance.
     rating: 8
     rating_warning: true
     meeting_date: '2018'
@@ -1391,6 +1407,7 @@ books:
   - title: Love's Executioner and other tales of Psychotherapy
     author: Irwin Yalom
     remarks:
+      - Case studies drawn from Yalom's psychotherapeutic practice.
       - Beautifully written and engaging
       - Everyone in book club liked it.
     rating: 9
