@@ -5,6 +5,9 @@
 .page-header {
     padding-top: 3rem;
     padding-bottom: 2rem;
+    background-image: url("../img/books1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .book {
@@ -18,7 +21,9 @@
 .books-panel {
     background-color: lightyellow;
 }
-
+.project-tagline {
+    background-color: saddlebrown;
+}
 .book-sort-control-container {
     padding: 0.8rem 0.8rem 0.8rem 1rem;
     display: flex;
