@@ -10,6 +10,22 @@ intro: |+
 
   It is interesting which books I remembered and which I didn't. Some from even the earliest years are still quite vivid. Others, even some from not long ago, are blanks. I've tried to be straight about what I can remember and what I can't, but memory, mine anyway, sometimes plays strange games.
 books:
+  - title: "Anthro-Vision: How Anthropology Can Explain Business and Life"
+    author: "Gillian Tett"
+    remarks:
+      - "Tett has a doctorate in anthropology but is best known as the FT journalist who raised early concerns about capital markets before the 2008 crash."
+      - "She thinks her background in anthropology helped her to understand the world made by those working with complex financial instruments."
+      - "The book is part memoir and a series of short chapters explaining how ideas from anthropology have provided actionable insights for problems including controlling Ebola in Africa and selling Kit-Kat chocolates in Japan."
+      - "Lucidly written in an easy-to-read transatlantic style, with lots of fascinating stories."
+      - "But Ebola and Japanese Kit-Kat aside, I wasn't convinced for the necessity of anthropological thinking for the successes she describes. Less compelling examples are finding that 'empty' is not always meant literally - which caused trouble when petrol drums still contained fumes; and that different corporate cultures have different ideas about the purpose of meetings. No shit Levi-Straus."
+      - "And potentially interesting chapters on populism, a phenomenon which cries out for deeper anthropological insight, were disappointingly short and not very illuminating."
+    rating: 6
+    rating_warning: false
+    meeting_date: "2021"
+    sort_keys:
+      author: Gillian, Tett
+      title: "Anthro-Vision: How Anthropology Can Explain Business and Life"
+      date: "2021"
   - title: "Twilight of Democracy: The Failure of Politics and the Parting of Friends"
     author: "Anne Applebaum"
     remarks:
