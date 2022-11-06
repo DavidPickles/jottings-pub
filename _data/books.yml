@@ -10,6 +10,62 @@ intro: |+
 
   It is interesting which books I remembered and which I didn't. Some from even the earliest years are still quite vivid. Others, even some from not long ago, are blanks. I've tried to be straight about what I can remember and what I can't, but memory, mine anyway, sometimes plays strange games.
 books:
+  - title: "The Uninhabitable Earth: A Story of the Future"
+    author: "David Wallace-Wells"
+    remarks:
+      - "A thorough catalogue of the horrors which global warming might produce."
+      - "The intention of the book is to alarm, and it does that well; it's effectively scary."
+      - "I would have liked more explanation of the concepts behind the predictions. For example the IPCC's 'Representative Concentration Pathways' are the basis of many climate projections, but the concept is never mentioned."
+      - "And I would have liked less of the climate change pyschology which occupied the last third of the book."
+      - "The final chapter expresses an optimism which for me didn't cohere with the rest of the book."
+    rating: 7
+    meeting_date: "2022"
+    sort_keys:
+      author: Wallace-Wells, David
+      title: "TThe Uninhabitable Earth: A Story of the Future"
+      date: "2022"
+  - title: "The Next Civil War: Dispatches from the American Future"
+    author: "Stephen Marche"
+    remarks:
+      - "Reports of fictional but plausible American disasters. Each section narrates a finctional scenario,  then gives reasons for thinking something like it will happen."
+      - "The main scenarios are the US army being called in to crush an anti-government rebellian, a lone shooter going for the president, and New York flooded due to global warming"
+      - "The book works well, it's entertaining and salutory at the same time."
+      - "Its conclusion is that the US is likely to devolve into separate nations. From an outside perspective that end-state doesn't seem so terrible, though the process of getting there might well be."
+    rating: 7
+    meeting_date: "2022"
+    sort_keys:
+      author: Marche, Stephen
+      title: "The Next Civil War: Dispatches from the American Future"
+      date: "2022"
+  - title: "Boderland: A Journey Through the History of Ukraine"
+    author: "Anna Reid"
+    remarks:
+       - "A compelling and lucid introduction to a complex and often tragic history."
+       - "Reid has spent a lot of time in Ukraine, her own experiences are woven  into the narrative with unusual skill and restraint; they enrich the narrative without bluring its focus."
+       - "I loved Reid's brisk, dry style. Her description of her interview with Robert Maxwell, born in Western Ukraine, is a tour-de-force."
+       - "I think I enjoyed the book more than anyone else in the group, hence the warning."
+    rating: 9
+    rating_warning: true
+    meeting_date: "2022"
+    sort_keys:
+      author: Reid, Anna
+      title: "Boderland: A Journey Through the History of Ukraine"
+      date: "2022"
+  - title: "The Transgender Issue: An Argument for Justice"
+    author: "Shon Faye"
+    remarks:
+       - "Well written, effective points in favour of trans rights."
+       - "Makes a strong case for the importance of economic disadvantge in compounding and intensifying the problems faced by trans people. "
+       - "Attempts to liink the fight for trans rights to the end of capitalism, and I don't get it. It's surely possible to improve the lives of trans people without a socio-economic revolution."
+       - "At an abstract level I am sceptical of the concept of gender identity and the idea of that people have to be considered unfailingly accurate in the self-description of their gender. These ideas have been heavily promoted by organisations like Stonewall, and they worry me because of the consequences they have for born-women's rights and safety."
+       - "On balance the idea that genders are less fixed than we thought is a potentially liberating and positive one. But I wish the conversations taking place about the issues were less confrontational. On that score Faye is a reasonable and reflective voice."
+    rating: 6
+    rating_warning: true
+    meeting_date: "2022"
+    sort_keys:
+      author: Shon, Faye
+      title: "Transgender Issue: An Argument for Justice"
+      date: "2022"
   - title: "Anthro-Vision: How Anthropology Can Explain Business and Life"
     author: "Gillian Tett"
     remarks:
@@ -17,7 +73,7 @@ books:
       - "She thinks her background in anthropology helped her to understand the world made by those working with complex financial instruments."
       - "The book is a memoir and a series of short chapters explaining how ideas from anthropology have provided actionable insights for problems including controlling Ebola in Africa and selling Kit-Kat chocolates in Japan."
       - "Lucidly written in an easy-to-read transatlantic style, with lots of fascinating stories."
-      - "But Ebola and Japanese Kit-Kat aside, I wasn't convinced for the necessity of anthropological thinking for the successes she describes. Less compelling examples are finding that 'empty' is not always meant literally - which caused trouble when petrol drums still contained fumes; and that different corporate cultures have different ideas about the purpose of meetings. No shit Levi-Strauss."
+      - "But Ebola and Japanese Kit-Kat aside, I wasn't convinced for the necessity of anthropological thinking to the successes she describes. Less compelling examples are finding that 'empty' is not always meant literally - which caused trouble when petrol drums still contained fumes; and that different corporate cultures have different ideas about the purpose of meetings. No shit Levi-Strauss."
       - "And potentially interesting chapters on populism, a phenomenon which cries out for deeper anthropological insight, were disappointingly short and not very illuminating."
     rating: 6
     rating_warning: false
